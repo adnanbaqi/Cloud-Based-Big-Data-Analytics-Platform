@@ -1,4 +1,4 @@
-FROM node:18-bullseye as builder
+FROM node:18-bullseye AS builder
 
 # Create app directory
 WORKDIR /usr/src/app
