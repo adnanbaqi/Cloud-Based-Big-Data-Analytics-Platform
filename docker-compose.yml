@@ -1,0 +1,61 @@
+version: "3.9"
+
+services:
+  redis:
+    image: redis:latest
+    ports:
+      - "6379:6379"
+
+  elasticsearch:
+    image: docker.elastic.co/elasticsearch/elasticsearch:7.13.4
+    container_name: elasticsearch
+    environment:
+      - discovery.type=single-node
+    ports:
+      - "9200:9200"
+      - "9300:9300"
+
+  nodejs:
+    build:
+      context: ./api-service
+      dockerfile: Dockerfile
+    container_name: api-service
+    ports:
+      - "9080:9080"
+    environment:
+      - REDIS_HOSTNAME=redis
+      - ELASTICSEARCH_URL=http://elasticsearch:9200
+    depends_on:
+      - redis
+      - elasticsearch
+  
+  simulator:
+    build:
+      context: ./simulator
+      dockerfile: Dockerfile
+    container_name: simulator
+    env_file:
+      - simulator/.env
+    depends_on:
+      - redis
+      - elasticsearch
+    
+  elastic-ingestor:
+    build:
+      context: ./elastic-ingestor
+      dockerfile: Dockerfile
+    container_name: elastic-ingestor
+    ports:
+      - "3000:3000"
+    env_file:
+      - elastic-ingestor/.env
+    depends_on:
+      - elasticsearch
+  
+  scraper:
+    build:
+      context: ./scraper
+      dockerfile: Dockerfile
+    container_name: scraper
+    ports:
+      - "5001:5001"
