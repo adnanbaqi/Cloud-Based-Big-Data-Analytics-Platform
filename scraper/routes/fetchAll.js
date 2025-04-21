@@ -70,7 +70,7 @@ const fetchAll = async () => {
   });
 
   try {
-    const theskylivesunImgUrl = "https://theskylive.com/images/sun.jpg"; // Direct URL for the sun image
+    const theskylivesunImgUrl = "https://theskylive.com/objects/sun/sunspots/sunspots.jpg?t?1745272801"; // Direct URL for the sun image
     console.log(`Image source URL: ${theskylivesunImgUrl}`);
     
     const response = await fetch(theskylivesunImgUrl);
