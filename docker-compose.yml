@@ -22,11 +22,11 @@ services:
       - "9080:9080"
     environment:
       - REDIS_HOSTNAME=redis
-      - ELASTICSEARCH_URL=http://elasticsearch:9200
+      - ELASTICSEARCH_URL=http://elasticsearch:9200  # Elasticsearch service URL
     depends_on:
       - redis
       - elasticsearch
-  
+
   simulator:
     build:
       context: ./simulator
@@ -37,7 +37,7 @@ services:
     depends_on:
       - redis
       - elasticsearch
-    
+
   elastic-ingestor:
     build:
       context: ./elastic-ingestor
@@ -47,9 +47,11 @@ services:
       - "3000:3000"
     env_file:
       - elastic-ingestor/.env
+    environment:
+      - ELASTICSEARCH_URL=http://elasticsearch:9200  # Use service name here for connection
     depends_on:
       - elasticsearch
-  
+
   scraper:
     build:
       context: ./scraper
