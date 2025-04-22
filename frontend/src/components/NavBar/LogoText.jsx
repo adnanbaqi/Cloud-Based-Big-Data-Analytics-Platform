@@ -1,5 +1,6 @@
 // import './LogoText.css'
 import styled from "styled-components";
+import { Link } from 'react-router-dom';
 
 const StyledLinkText = styled.span`
 
@@ -17,7 +18,11 @@ const StyledLinkText = styled.span`
 `;
 
 const LogoText = () => {
-  return <StyledLinkText>Big Data</StyledLinkText>;
+  return (
+    <Link to="/">
+      <StyledLinkText>Big Data</StyledLinkText>
+    </Link>
+  );
 };
 
 export default LogoText;

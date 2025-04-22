@@ -1,7 +1,7 @@
 import styled from "styled-components";
 import Logo from "./Logo";
 import NavItem from "./NavItem";
-import { faFlask, faGlobe, faSatellite } from "@fortawesome/free-solid-svg-icons";
+import { faCloud, faGlobe, faSatellite, faUpload } from "@fortawesome/free-solid-svg-icons";
 
 const StyledNavBarUl = styled.ul`
   list-style: none;
@@ -21,17 +21,23 @@ const NavBarUl = () => {
   return (
     <StyledNavBarUl>
       <Logo />
-      <NavItem
-        linkText={"Simulator"}
-        svgPaths={faFlask}
-      />
+
       <NavItem
         linkText={"Nasa"}
         svgPaths={faSatellite}
       />
       <NavItem
+        linkText={"Cloud"}
+        svgPaths={faCloud}
+      />
+      <NavItem
         linkText={"Scraper"}
         svgPaths={faGlobe}
+      />
+
+      <NavItem
+        linkText={"CSV"}
+        svgPaths={faUpload}
       />
     </StyledNavBarUl>
   );

@@ -1,0 +1,1001 @@
+timestamp,event_type,severity,observatory,coordinates,details
+2025-04-17T10:32:00Z,asteroid_approach,1,DKIST,"RA 18h 42m 03s Dec +38° 12' 09""",2.4 lunar distances
+2025-04-18T08:18:00Z,neutron_star_merger,2,IceCube Neutrino Observatory,"RA 21h 15m 47s Dec -02° 36' 15""",Electromagnetic counterpart observed
+2025-04-05T08:02:00Z,neutron_star_merger,4,Pierre Auger Observatory,"RA 05h 22m 40s Dec +19° 31' 21""",Electromagnetic counterpart observed
+2025-04-30T00:30:00Z,solar_flare,4,IceCube Neutrino Observatory,"RA 05h 22m 40s Dec +19° 31' 21""",Class X2.1 flare
+2025-04-29T20:50:00Z,cosmic_ray,5,Pan-STARRS,N23W45,Energy: 1.2×10^19 eV
+2025-04-13T09:06:00Z,neutron_star_merger,2,Pierre Auger Observatory,"RA 18h 42m 03s Dec +38° 12' 09""",Gravitational wave detection
+2025-04-11T18:53:00Z,solar_flare,2,Solar Dynamics Observatory,N23W45,Class M5.7 flare
+2025-04-04T06:48:00Z,gamma_ray_burst,3,SOHO,N32W15,Duration: 145s
+2025-04-25T09:51:00Z,neutron_star_merger,2,Fermi Space Telescope,"RA 18h 42m 03s Dec +38° 12' 09""",Gravitational wave detection
+2025-04-03T22:31:00Z,solar_flare,1,IceCube Neutrino Observatory,"RA 8h 12m 31s Dec -15° 08' 22""",Class X5.8 flare
+2025-04-10T23:42:00Z,cosmic_ray,5,LIGO/Virgo,N12E18,Ultra-high energy: 3.2×10^19 eV
+2025-04-01T06:20:00Z,cosmic_ray,1,Fermi Space Telescope,N32W15,Ultra-high energy: 3.2×10^19 eV
+2025-04-07T00:18:00Z,neutron_star_merger,1,Pierre Auger Observatory,"RA 05h 22m 40s Dec +19° 31' 21""",Electromagnetic counterpart observed
+2025-04-25T15:58:00Z,neutron_star_merger,5,Swift Telescope,"RA 8h 12m 31s Dec -15° 08' 22""",Gravitational wave detection
+2025-04-11T00:19:00Z,asteroid_approach,4,Fermi Space Telescope,"RA 12h 30m 45s Dec +23° 45' 12""",0.9 lunar distances
+2025-04-05T18:40:00Z,cosmic_ray,1,IceCube Neutrino Observatory,"RA 05h 22m 40s Dec +19° 31' 21""",Energy: 8.7×10^18 eV
+2025-04-27T23:48:00Z,gamma_ray_burst,2,Pierre Auger Observatory,"RA 18h 42m 03s Dec +38° 12' 09""",Duration: 235s
+2025-04-02T15:07:00Z,cosmic_ray,4,Fermi Space Telescope,S35W64,Ultra-high energy: 3.2×10^19 eV
+2025-04-24T00:30:00Z,gamma_ray_burst,4,Swift Telescope,N23W45,Duration: 235s
+2025-04-18T08:26:00Z,cosmic_ray,4,ATLAS,"RA 18h 42m 03s Dec +38° 12' 09""",Energy: 1.2×10^19 eV
+2025-04-05T20:29:00Z,neutron_star_merger,2,LIGO/Virgo,N32W15,Electromagnetic counterpart observed
+2025-04-20T02:34:00Z,cosmic_ray,3,LIGO/Virgo,S35W64,Energy: 8.7×10^18 eV
+2025-04-30T01:42:00Z,neutron_star_merger,3,Pierre Auger Observatory,"RA 8h 12m 31s Dec -15° 08' 22""",Electromagnetic counterpart observed
+2025-04-17T00:38:00Z,gamma_ray_burst,2,Pierre Auger Observatory,N23W45,Duration: 85s
+2025-04-19T15:01:00Z,neutron_star_merger,4,DKIST,N32W15,Electromagnetic counterpart observed
+2025-04-01T17:09:00Z,neutron_star_merger,3,ATLAS,S12W22,Gravitational wave detection
+2025-04-18T07:27:00Z,neutron_star_merger,3,ATLAS,"RA 18h 42m 03s Dec +38° 12' 09""",Electromagnetic counterpart observed
+2025-04-09T19:49:00Z,cosmic_ray,3,Swift Telescope,N23W45,Energy: 8.7×10^18 eV
+2025-04-10T17:30:00Z,gamma_ray_burst,3,Solar Dynamics Observatory,N12E18,Duration: 85s
+2025-04-22T16:48:00Z,solar_flare,2,Pierre Auger Observatory,N32W15,Class X2.1 flare
+2025-04-12T11:16:00Z,gamma_ray_burst,3,LIGO/Virgo,N32W15,Duration: 85s
+2025-04-02T17:29:00Z,neutron_star_merger,3,Swift Telescope,"RA 05h 22m 40s Dec +19° 31' 21""",Electromagnetic counterpart observed
+2025-04-18T03:09:00Z,gamma_ray_burst,4,DKIST,N23W45,Duration: 85s
+2025-04-16T19:53:00Z,cosmic_ray,5,ATLAS,"RA 18h 42m 03s Dec +38° 12' 09""",Energy: 8.7×10^18 eV
+2025-04-29T21:29:00Z,gamma_ray_burst,3,Fermi Space Telescope,"RA 8h 12m 31s Dec -15° 08' 22""",Duration: 145s
+2025-04-30T20:34:00Z,neutron_star_merger,5,Swift Telescope,N23W45,Electromagnetic counterpart observed
+2025-04-15T09:36:00Z,asteroid_approach,4,Pierre Auger Observatory,S35W64,1.2 lunar distances
+2025-04-06T07:58:00Z,solar_flare,1,Pierre Auger Observatory,"RA 12h 30m 45s Dec +23° 45' 12""",Class X5.8 flare
+2025-04-12T23:07:00Z,solar_flare,3,Pierre Auger Observatory,"RA 12h 30m 45s Dec +23° 45' 12""",Class M5.7 flare
+2025-04-06T23:07:00Z,neutron_star_merger,3,LIGO/Virgo,"RA 12h 30m 45s Dec +23° 45' 12""",Electromagnetic counterpart observed
+2025-04-18T02:17:00Z,neutron_star_merger,5,SOHO,"RA 12h 30m 45s Dec +23° 45' 12""",Electromagnetic counterpart observed
+2025-04-24T06:11:00Z,asteroid_approach,4,Pierre Auger Observatory,"RA 21h 15m 47s Dec -02° 36' 15""",0.9 lunar distances
+2025-04-27T01:50:00Z,asteroid_approach,2,LIGO/Virgo,N32W15,0.9 lunar distances
+2025-04-06T19:10:00Z,gamma_ray_burst,2,SOHO,N23W45,Duration: 310s
+2025-04-19T11:39:00Z,asteroid_approach,5,LIGO/Virgo,N12E18,1.2 lunar distances
+2025-04-18T20:39:00Z,gamma_ray_burst,3,Pan-STARRS,N12E18,Duration: 145s
+2025-04-02T17:53:00Z,neutron_star_merger,3,DKIST,"RA 21h 15m 47s Dec -02° 36' 15""",Gravitational wave detection
+2025-04-22T23:00:00Z,neutron_star_merger,3,Pan-STARRS,N23W45,Gravitational wave detection
+2025-04-27T07:05:00Z,gamma_ray_burst,1,Fermi Space Telescope,S12W22,Duration: 310s
+2025-04-06T12:45:00Z,solar_flare,3,DKIST,"RA 12h 30m 45s Dec +23° 45' 12""",Class X2.1 flare
+2025-04-07T20:59:00Z,solar_flare,2,LIGO/Virgo,N32W15,Class X2.1 flare
+2025-04-27T16:47:00Z,gamma_ray_burst,5,Fermi Space Telescope,S35W64,Duration: 85s
+2025-04-29T17:54:00Z,solar_flare,5,DKIST,S12W22,Class M5.7 flare
+2025-04-18T07:53:00Z,cosmic_ray,5,Fermi Space Telescope,N23W45,Energy: 1.2×10^19 eV
+2025-04-09T01:34:00Z,gamma_ray_burst,1,Fermi Space Telescope,"RA 21h 15m 47s Dec -02° 36' 15""",Duration: 85s
+2025-04-23T07:55:00Z,neutron_star_merger,5,Pan-STARRS,N23W45,Electromagnetic counterpart observed
+2025-04-22T22:12:00Z,neutron_star_merger,4,Fermi Space Telescope,S35W64,Electromagnetic counterpart observed
+2025-04-22T01:49:00Z,solar_flare,2,Swift Telescope,S35W64,Class C3.4 flare
+2025-04-11T13:07:00Z,gamma_ray_burst,3,LIGO/Virgo,"RA 8h 12m 31s Dec -15° 08' 22""",Duration: 85s
+2025-04-20T05:56:00Z,asteroid_approach,4,IceCube Neutrino Observatory,"RA 12h 30m 45s Dec +23° 45' 12""",0.9 lunar distances
+2025-04-29T21:21:00Z,cosmic_ray,4,Solar Dynamics Observatory,"RA 05h 22m 40s Dec +19° 31' 21""",Energy: 1.2×10^19 eV
+2025-04-21T00:23:00Z,asteroid_approach,2,Pierre Auger Observatory,N12E18,1.2 lunar distances
+2025-04-26T11:51:00Z,asteroid_approach,5,Pierre Auger Observatory,"RA 05h 22m 40s Dec +19° 31' 21""",2.4 lunar distances
+2025-04-08T08:05:00Z,solar_flare,1,IceCube Neutrino Observatory,N32W15,Class C3.4 flare
+2025-04-29T08:11:00Z,cosmic_ray,5,Pan-STARRS,N23W45,Ultra-high energy: 3.2×10^19 eV
+2025-04-09T03:17:00Z,gamma_ray_burst,4,Pan-STARRS,"RA 21h 15m 47s Dec -02° 36' 15""",Duration: 145s
+2025-04-05T08:43:00Z,solar_flare,3,ATLAS,S12W22,Class M5.7 flare
+2025-04-21T01:08:00Z,neutron_star_merger,2,LIGO/Virgo,S35W64,Electromagnetic counterpart observed
+2025-04-24T05:14:00Z,solar_flare,3,Solar Dynamics Observatory,S12W22,Class C3.4 flare
+2025-04-12T21:11:00Z,neutron_star_merger,1,Swift Telescope,N32W15,Electromagnetic counterpart observed
+2025-04-08T18:02:00Z,asteroid_approach,1,IceCube Neutrino Observatory,S12W22,2.4 lunar distances
+2025-04-27T20:19:00Z,solar_flare,3,LIGO/Virgo,"RA 18h 42m 03s Dec +38° 12' 09""",Class M5.7 flare
+2025-04-07T09:17:00Z,gamma_ray_burst,1,SOHO,"RA 8h 12m 31s Dec -15° 08' 22""",Duration: 235s
+2025-04-13T02:15:00Z,gamma_ray_burst,3,DKIST,"RA 05h 22m 40s Dec +19° 31' 21""",Duration: 85s
+2025-04-11T06:48:00Z,gamma_ray_burst,2,Pan-STARRS,S35W64,Duration: 310s
+2025-04-04T13:15:00Z,gamma_ray_burst,2,Swift Telescope,"RA 18h 42m 03s Dec +38° 12' 09""",Duration: 85s
+2025-04-21T04:05:00Z,neutron_star_merger,5,Solar Dynamics Observatory,N12E18,Electromagnetic counterpart observed
+2025-04-30T10:05:00Z,cosmic_ray,1,DKIST,S12W22,Energy: 8.7×10^18 eV
+2025-04-23T21:42:00Z,gamma_ray_burst,4,Pan-STARRS,S35W64,Duration: 235s
+2025-04-26T18:46:00Z,cosmic_ray,3,ATLAS,N23W45,Energy: 8.7×10^18 eV
+2025-04-11T09:09:00Z,neutron_star_merger,2,SOHO,"RA 21h 15m 47s Dec -02° 36' 15""",Electromagnetic counterpart observed
+2025-04-13T10:03:00Z,cosmic_ray,2,Pan-STARRS,S35W64,Energy: 8.7×10^18 eV
+2025-04-24T18:12:00Z,cosmic_ray,2,LIGO/Virgo,"RA 12h 30m 45s Dec +23° 45' 12""",Ultra-high energy: 3.2×10^19 eV
+2025-04-11T15:39:00Z,solar_flare,1,Solar Dynamics Observatory,"RA 8h 12m 31s Dec -15° 08' 22""",Class M5.7 flare
+2025-04-18T19:37:00Z,cosmic_ray,2,Solar Dynamics Observatory,S12W22,Ultra-high energy: 3.2×10^19 eV
+2025-04-01T12:17:00Z,gamma_ray_burst,4,ATLAS,"RA 18h 42m 03s Dec +38° 12' 09""",Duration: 145s
+2025-04-08T06:54:00Z,gamma_ray_burst,4,Solar Dynamics Observatory,"RA 18h 42m 03s Dec +38° 12' 09""",Duration: 310s
+2025-04-08T05:31:00Z,cosmic_ray,5,Solar Dynamics Observatory,N32W15,Energy: 8.7×10^18 eV
+2025-04-18T09:18:00Z,neutron_star_merger,4,Fermi Space Telescope,N32W15,Electromagnetic counterpart observed
+2025-04-02T17:08:00Z,cosmic_ray,4,ATLAS,S35W64,Energy: 1.2×10^19 eV
+2025-04-16T04:23:00Z,gamma_ray_burst,1,Pierre Auger Observatory,"RA 05h 22m 40s Dec +19° 31' 21""",Duration: 310s
+2025-04-24T14:16:00Z,solar_flare,5,IceCube Neutrino Observatory,"RA 12h 30m 45s Dec +23° 45' 12""",Class X5.8 flare
+2025-04-30T09:13:00Z,neutron_star_merger,5,Pierre Auger Observatory,"RA 21h 15m 47s Dec -02° 36' 15""",Gravitational wave detection
+2025-04-01T00:51:00Z,solar_flare,1,Fermi Space Telescope,N32W15,Class X5.8 flare
+2025-04-06T19:15:00Z,gamma_ray_burst,3,LIGO/Virgo,"RA 8h 12m 31s Dec -15° 08' 22""",Duration: 310s
+2025-04-27T13:05:00Z,neutron_star_merger,3,SOHO,S12W22,Electromagnetic counterpart observed
+2025-04-17T13:57:00Z,solar_flare,4,Swift Telescope,N32W15,Class X5.8 flare
+2025-04-25T17:33:00Z,gamma_ray_burst,4,Swift Telescope,N23W45,Duration: 85s
+2025-04-26T21:16:00Z,gamma_ray_burst,1,SOHO,"RA 21h 15m 47s Dec -02° 36' 15""",Duration: 235s
+2025-04-02T20:22:00Z,neutron_star_merger,4,Pan-STARRS,"RA 8h 12m 31s Dec -15° 08' 22""",Gravitational wave detection
+2025-04-26T18:49:00Z,solar_flare,5,Swift Telescope,N23W45,Class X2.1 flare
+2025-04-23T03:06:00Z,gamma_ray_burst,5,Solar Dynamics Observatory,N32W15,Duration: 85s
+2025-04-14T09:35:00Z,cosmic_ray,2,IceCube Neutrino Observatory,"RA 05h 22m 40s Dec +19° 31' 21""",Ultra-high energy: 3.2×10^19 eV
+2025-04-15T09:03:00Z,gamma_ray_burst,4,Solar Dynamics Observatory,N23W45,Duration: 310s
+2025-04-25T04:49:00Z,neutron_star_merger,3,ATLAS,N32W15,Electromagnetic counterpart observed
+2025-04-07T20:49:00Z,neutron_star_merger,2,DKIST,S12W22,Electromagnetic counterpart observed
+2025-04-18T14:42:00Z,cosmic_ray,3,ATLAS,S12W22,Energy: 8.7×10^18 eV
+2025-04-30T16:14:00Z,gamma_ray_burst,5,Pierre Auger Observatory,N23W45,Duration: 235s
+2025-04-13T16:19:00Z,cosmic_ray,3,IceCube Neutrino Observatory,"RA 21h 15m 47s Dec -02° 36' 15""",Energy: 8.7×10^18 eV
+2025-04-10T07:25:00Z,asteroid_approach,1,Swift Telescope,S12W22,2.4 lunar distances
+2025-04-12T23:25:00Z,asteroid_approach,4,IceCube Neutrino Observatory,S35W64,0.9 lunar distances
+2025-04-20T19:18:00Z,cosmic_ray,3,DKIST,N23W45,Energy: 1.2×10^19 eV
+2025-04-22T04:54:00Z,cosmic_ray,3,Swift Telescope,"RA 21h 15m 47s Dec -02° 36' 15""",Energy: 8.7×10^18 eV
+2025-04-10T06:42:00Z,solar_flare,2,Fermi Space Telescope,"RA 05h 22m 40s Dec +19° 31' 21""",Class C3.4 flare
+2025-04-27T08:20:00Z,asteroid_approach,4,LIGO/Virgo,N32W15,0.9 lunar distances
+2025-04-28T00:08:00Z,solar_flare,1,Pierre Auger Observatory,"RA 18h 42m 03s Dec +38° 12' 09""",Class X5.8 flare
+2025-04-04T21:49:00Z,cosmic_ray,5,IceCube Neutrino Observatory,"RA 12h 30m 45s Dec +23° 45' 12""",Ultra-high energy: 3.2×10^19 eV
+2025-04-11T02:10:00Z,gamma_ray_burst,1,Pierre Auger Observatory,N32W15,Duration: 235s
+2025-04-03T07:45:00Z,cosmic_ray,5,Solar Dynamics Observatory,N12E18,Ultra-high energy: 3.2×10^19 eV
+2025-04-13T08:40:00Z,neutron_star_merger,2,LIGO/Virgo,"RA 18h 42m 03s Dec +38° 12' 09""",Electromagnetic counterpart observed
+2025-04-28T05:30:00Z,solar_flare,5,SOHO,"RA 05h 22m 40s Dec +19° 31' 21""",Class M5.7 flare
+2025-04-24T12:44:00Z,neutron_star_merger,5,SOHO,"RA 18h 42m 03s Dec +38° 12' 09""",Electromagnetic counterpart observed
+2025-04-02T13:56:00Z,asteroid_approach,4,Pierre Auger Observatory,"RA 12h 30m 45s Dec +23° 45' 12""",1.2 lunar distances
+2025-04-07T02:48:00Z,neutron_star_merger,4,Pan-STARRS,"RA 05h 22m 40s Dec +19° 31' 21""",Gravitational wave detection
+2025-04-13T04:15:00Z,solar_flare,2,Pierre Auger Observatory,"RA 21h 15m 47s Dec -02° 36' 15""",Class M5.7 flare
+2025-04-15T13:40:00Z,gamma_ray_burst,5,Pierre Auger Observatory,"RA 18h 42m 03s Dec +38° 12' 09""",Duration: 85s
+2025-04-09T04:30:00Z,gamma_ray_burst,2,Solar Dynamics Observatory,"RA 05h 22m 40s Dec +19° 31' 21""",Duration: 85s
+2025-04-04T08:36:00Z,cosmic_ray,4,SOHO,N23W45,Energy: 1.2×10^19 eV
+2025-04-21T21:59:00Z,gamma_ray_burst,3,ATLAS,"RA 21h 15m 47s Dec -02° 36' 15""",Duration: 85s
+2025-04-10T04:17:00Z,neutron_star_merger,5,Solar Dynamics Observatory,N23W45,Gravitational wave detection
+2025-04-15T11:47:00Z,solar_flare,1,SOHO,"RA 18h 42m 03s Dec +38° 12' 09""",Class M5.7 flare
+2025-04-30T01:57:00Z,asteroid_approach,5,Solar Dynamics Observatory,"RA 05h 22m 40s Dec +19° 31' 21""",2.4 lunar distances
+2025-04-08T05:26:00Z,asteroid_approach,5,Pierre Auger Observatory,"RA 05h 22m 40s Dec +19° 31' 21""",0.9 lunar distances
+2025-04-30T20:47:00Z,neutron_star_merger,3,LIGO/Virgo,"RA 21h 15m 47s Dec -02° 36' 15""",Electromagnetic counterpart observed
+2025-04-07T23:20:00Z,solar_flare,5,DKIST,S12W22,Class M5.7 flare
+2025-04-29T14:57:00Z,cosmic_ray,2,SOHO,"RA 05h 22m 40s Dec +19° 31' 21""",Ultra-high energy: 3.2×10^19 eV
+2025-04-01T11:12:00Z,gamma_ray_burst,3,ATLAS,"RA 8h 12m 31s Dec -15° 08' 22""",Duration: 85s
+2025-04-07T11:26:00Z,neutron_star_merger,3,Pierre Auger Observatory,"RA 8h 12m 31s Dec -15° 08' 22""",Gravitational wave detection
+2025-04-11T03:29:00Z,asteroid_approach,2,SOHO,N32W15,1.2 lunar distances
+2025-04-19T04:57:00Z,gamma_ray_burst,5,Swift Telescope,"RA 12h 30m 45s Dec +23° 45' 12""",Duration: 85s
+2025-04-26T03:21:00Z,asteroid_approach,5,ATLAS,"RA 12h 30m 45s Dec +23° 45' 12""",1.2 lunar distances
+2025-04-23T07:06:00Z,gamma_ray_burst,3,LIGO/Virgo,"RA 18h 42m 03s Dec +38° 12' 09""",Duration: 235s
+2025-04-05T05:32:00Z,gamma_ray_burst,5,SOHO,"RA 05h 22m 40s Dec +19° 31' 21""",Duration: 145s
+2025-04-16T09:42:00Z,asteroid_approach,3,Pan-STARRS,"RA 05h 22m 40s Dec +19° 31' 21""",1.2 lunar distances
+2025-04-13T06:43:00Z,cosmic_ray,1,IceCube Neutrino Observatory,N32W15,Ultra-high energy: 3.2×10^19 eV
+2025-04-24T20:35:00Z,gamma_ray_burst,5,LIGO/Virgo,S12W22,Duration: 145s
+2025-04-02T19:27:00Z,gamma_ray_burst,2,IceCube Neutrino Observatory,S35W64,Duration: 145s
+2025-04-01T04:02:00Z,gamma_ray_burst,1,IceCube Neutrino Observatory,N12E18,Duration: 145s
+2025-04-24T12:06:00Z,neutron_star_merger,5,ATLAS,"RA 12h 30m 45s Dec +23° 45' 12""",Gravitational wave detection
+2025-04-22T23:30:00Z,asteroid_approach,5,DKIST,"RA 18h 42m 03s Dec +38° 12' 09""",1.2 lunar distances
+2025-04-30T22:23:00Z,solar_flare,2,SOHO,"RA 18h 42m 03s Dec +38° 12' 09""",Class M5.7 flare
+2025-04-13T05:43:00Z,asteroid_approach,1,Pierre Auger Observatory,"RA 18h 42m 03s Dec +38° 12' 09""",2.4 lunar distances
+2025-04-07T18:30:00Z,gamma_ray_burst,3,SOHO,"RA 8h 12m 31s Dec -15° 08' 22""",Duration: 85s
+2025-04-21T17:59:00Z,solar_flare,5,Pan-STARRS,"RA 18h 42m 03s Dec +38° 12' 09""",Class C3.4 flare
+2025-04-16T09:29:00Z,solar_flare,3,Solar Dynamics Observatory,"RA 05h 22m 40s Dec +19° 31' 21""",Class C3.4 flare
+2025-04-19T04:53:00Z,cosmic_ray,5,LIGO/Virgo,N23W45,Energy: 8.7×10^18 eV
+2025-04-23T10:29:00Z,gamma_ray_burst,5,DKIST,N12E18,Duration: 310s
+2025-04-12T05:03:00Z,solar_flare,4,SOHO,"RA 12h 30m 45s Dec +23° 45' 12""",Class X5.8 flare
+2025-04-13T01:15:00Z,gamma_ray_burst,1,IceCube Neutrino Observatory,"RA 12h 30m 45s Dec +23° 45' 12""",Duration: 235s
+2025-04-19T13:03:00Z,neutron_star_merger,3,Swift Telescope,S12W22,Gravitational wave detection
+2025-04-20T14:42:00Z,gamma_ray_burst,1,Swift Telescope,"RA 21h 15m 47s Dec -02° 36' 15""",Duration: 235s
+2025-04-19T19:13:00Z,asteroid_approach,3,ATLAS,"RA 05h 22m 40s Dec +19° 31' 21""",1.2 lunar distances
+2025-04-24T12:29:00Z,neutron_star_merger,4,Pan-STARRS,"RA 8h 12m 31s Dec -15° 08' 22""",Electromagnetic counterpart observed
+2025-04-09T05:39:00Z,gamma_ray_burst,5,LIGO/Virgo,"RA 8h 12m 31s Dec -15° 08' 22""",Duration: 85s
+2025-04-30T17:13:00Z,solar_flare,1,Fermi Space Telescope,"RA 21h 15m 47s Dec -02° 36' 15""",Class M5.7 flare
+2025-04-03T12:18:00Z,solar_flare,1,Pan-STARRS,"RA 21h 15m 47s Dec -02° 36' 15""",Class X5.8 flare
+2025-04-17T21:15:00Z,cosmic_ray,2,ATLAS,"RA 18h 42m 03s Dec +38° 12' 09""",Energy: 8.7×10^18 eV
+2025-04-19T08:12:00Z,asteroid_approach,4,Swift Telescope,N12E18,1.2 lunar distances
+2025-04-12T11:41:00Z,cosmic_ray,2,Solar Dynamics Observatory,"RA 05h 22m 40s Dec +19° 31' 21""",Energy: 1.2×10^19 eV
+2025-04-01T00:59:00Z,solar_flare,2,Solar Dynamics Observatory,"RA 18h 42m 03s Dec +38° 12' 09""",Class X5.8 flare
+2025-04-01T09:28:00Z,cosmic_ray,4,Pan-STARRS,"RA 18h 42m 03s Dec +38° 12' 09""",Ultra-high energy: 3.2×10^19 eV
+2025-04-05T18:13:00Z,solar_flare,3,Swift Telescope,N12E18,Class X5.8 flare
+2025-04-22T13:10:00Z,neutron_star_merger,3,Fermi Space Telescope,S35W64,Gravitational wave detection
+2025-04-03T20:29:00Z,cosmic_ray,2,DKIST,"RA 8h 12m 31s Dec -15° 08' 22""",Ultra-high energy: 3.2×10^19 eV
+2025-04-28T21:52:00Z,cosmic_ray,1,Swift Telescope,"RA 18h 42m 03s Dec +38° 12' 09""",Energy: 8.7×10^18 eV
+2025-04-28T15:00:00Z,solar_flare,5,ATLAS,"RA 12h 30m 45s Dec +23° 45' 12""",Class X5.8 flare
+2025-04-16T07:51:00Z,gamma_ray_burst,4,Pierre Auger Observatory,"RA 05h 22m 40s Dec +19° 31' 21""",Duration: 310s
+2025-04-13T11:24:00Z,gamma_ray_burst,4,DKIST,"RA 21h 15m 47s Dec -02° 36' 15""",Duration: 310s
+2025-04-30T02:29:00Z,cosmic_ray,2,Solar Dynamics Observatory,N23W45,Energy: 8.7×10^18 eV
+2025-04-10T15:35:00Z,gamma_ray_burst,1,IceCube Neutrino Observatory,N12E18,Duration: 145s
+2025-04-14T07:32:00Z,neutron_star_merger,4,Fermi Space Telescope,"RA 18h 42m 03s Dec +38° 12' 09""",Gravitational wave detection
+2025-04-28T04:24:00Z,asteroid_approach,1,SOHO,"RA 21h 15m 47s Dec -02° 36' 15""",1.2 lunar distances
+2025-04-05T20:30:00Z,asteroid_approach,4,Pierre Auger Observatory,N23W45,0.9 lunar distances
+2025-04-27T13:48:00Z,gamma_ray_burst,4,Swift Telescope,"RA 05h 22m 40s Dec +19° 31' 21""",Duration: 310s
+2025-04-28T02:55:00Z,gamma_ray_burst,1,Pan-STARRS,N32W15,Duration: 310s
+2025-04-13T19:42:00Z,neutron_star_merger,3,Pan-STARRS,"RA 18h 42m 03s Dec +38° 12' 09""",Electromagnetic counterpart observed
+2025-04-20T23:31:00Z,cosmic_ray,2,IceCube Neutrino Observatory,"RA 8h 12m 31s Dec -15° 08' 22""",Energy: 1.2×10^19 eV
+2025-04-24T19:50:00Z,neutron_star_merger,3,Pierre Auger Observatory,"RA 12h 30m 45s Dec +23° 45' 12""",Gravitational wave detection
+2025-04-01T18:34:00Z,solar_flare,3,Solar Dynamics Observatory,"RA 05h 22m 40s Dec +19° 31' 21""",Class X5.8 flare
+2025-04-01T02:32:00Z,cosmic_ray,2,DKIST,N32W15,Ultra-high energy: 3.2×10^19 eV
+2025-04-20T17:06:00Z,neutron_star_merger,4,DKIST,"RA 18h 42m 03s Dec +38° 12' 09""",Gravitational wave detection
+2025-04-02T23:04:00Z,cosmic_ray,1,Solar Dynamics Observatory,N23W45,Energy: 1.2×10^19 eV
+2025-04-14T00:26:00Z,gamma_ray_burst,2,Pan-STARRS,"RA 18h 42m 03s Dec +38° 12' 09""",Duration: 145s
+2025-04-05T18:00:00Z,cosmic_ray,5,Swift Telescope,"RA 21h 15m 47s Dec -02° 36' 15""",Energy: 1.2×10^19 eV
+2025-04-12T11:22:00Z,cosmic_ray,4,LIGO/Virgo,S35W64,Energy: 8.7×10^18 eV
+2025-04-07T04:37:00Z,neutron_star_merger,5,Pan-STARRS,S35W64,Gravitational wave detection
+2025-04-10T03:34:00Z,neutron_star_merger,5,LIGO/Virgo,N32W15,Electromagnetic counterpart observed
+2025-04-09T03:52:00Z,asteroid_approach,3,DKIST,"RA 18h 42m 03s Dec +38° 12' 09""",2.4 lunar distances
+2025-04-07T16:09:00Z,cosmic_ray,3,Solar Dynamics Observatory,"RA 8h 12m 31s Dec -15° 08' 22""",Ultra-high energy: 3.2×10^19 eV
+2025-04-13T06:46:00Z,neutron_star_merger,4,IceCube Neutrino Observatory,"RA 21h 15m 47s Dec -02° 36' 15""",Electromagnetic counterpart observed
+2025-04-29T02:14:00Z,asteroid_approach,1,Pierre Auger Observatory,"RA 8h 12m 31s Dec -15° 08' 22""",0.9 lunar distances
+2025-04-23T06:21:00Z,gamma_ray_burst,4,ATLAS,"RA 8h 12m 31s Dec -15° 08' 22""",Duration: 310s
+2025-04-03T15:41:00Z,asteroid_approach,3,Swift Telescope,N32W15,2.4 lunar distances
+2025-04-02T23:15:00Z,neutron_star_merger,4,IceCube Neutrino Observatory,N32W15,Electromagnetic counterpart observed
+2025-04-25T18:56:00Z,neutron_star_merger,2,Fermi Space Telescope,"RA 21h 15m 47s Dec -02° 36' 15""",Gravitational wave detection
+2025-04-19T11:34:00Z,cosmic_ray,1,IceCube Neutrino Observatory,S12W22,Energy: 8.7×10^18 eV
+2025-04-14T12:26:00Z,cosmic_ray,5,Pan-STARRS,"RA 8h 12m 31s Dec -15° 08' 22""",Energy: 8.7×10^18 eV
+2025-04-04T00:20:00Z,gamma_ray_burst,5,Fermi Space Telescope,S35W64,Duration: 235s
+2025-04-13T20:03:00Z,neutron_star_merger,5,SOHO,"RA 18h 42m 03s Dec +38° 12' 09""",Gravitational wave detection
+2025-04-29T18:41:00Z,asteroid_approach,4,LIGO/Virgo,N32W15,2.4 lunar distances
+2025-04-21T00:11:00Z,gamma_ray_burst,4,Swift Telescope,N23W45,Duration: 85s
+2025-04-08T06:18:00Z,gamma_ray_burst,1,SOHO,"RA 8h 12m 31s Dec -15° 08' 22""",Duration: 85s
+2025-04-09T01:22:00Z,cosmic_ray,2,Pan-STARRS,"RA 18h 42m 03s Dec +38° 12' 09""",Ultra-high energy: 3.2×10^19 eV
+2025-04-24T09:37:00Z,cosmic_ray,3,Swift Telescope,N32W15,Energy: 8.7×10^18 eV
+2025-04-06T14:37:00Z,asteroid_approach,2,LIGO/Virgo,S35W64,0.9 lunar distances
+2025-04-20T01:07:00Z,cosmic_ray,3,IceCube Neutrino Observatory,N32W15,Energy: 1.2×10^19 eV
+2025-04-10T19:59:00Z,solar_flare,2,ATLAS,"RA 21h 15m 47s Dec -02° 36' 15""",Class X5.8 flare
+2025-04-21T07:59:00Z,gamma_ray_burst,3,ATLAS,"RA 8h 12m 31s Dec -15° 08' 22""",Duration: 145s
+2025-04-14T02:46:00Z,solar_flare,2,IceCube Neutrino Observatory,N23W45,Class X5.8 flare
+2025-04-07T14:35:00Z,asteroid_approach,3,ATLAS,"RA 8h 12m 31s Dec -15° 08' 22""",2.4 lunar distances
+2025-04-16T06:47:00Z,gamma_ray_burst,5,Swift Telescope,S35W64,Duration: 235s
+2025-04-25T13:45:00Z,solar_flare,4,DKIST,N23W45,Class M5.7 flare
+2025-04-03T00:37:00Z,solar_flare,4,IceCube Neutrino Observatory,"RA 12h 30m 45s Dec +23° 45' 12""",Class C3.4 flare
+2025-04-21T04:29:00Z,cosmic_ray,2,Solar Dynamics Observatory,"RA 12h 30m 45s Dec +23° 45' 12""",Energy: 1.2×10^19 eV
+2025-04-12T17:08:00Z,neutron_star_merger,1,SOHO,"RA 05h 22m 40s Dec +19° 31' 21""",Gravitational wave detection
+2025-04-26T07:17:00Z,cosmic_ray,1,SOHO,"RA 21h 15m 47s Dec -02° 36' 15""",Ultra-high energy: 3.2×10^19 eV
+2025-04-01T06:16:00Z,asteroid_approach,1,Fermi Space Telescope,S12W22,0.9 lunar distances
+2025-04-03T11:10:00Z,gamma_ray_burst,1,Pan-STARRS,"RA 21h 15m 47s Dec -02° 36' 15""",Duration: 145s
+2025-04-09T02:45:00Z,solar_flare,3,DKIST,S12W22,Class M5.7 flare
+2025-04-09T04:57:00Z,solar_flare,3,Fermi Space Telescope,N23W45,Class X2.1 flare
+2025-04-22T16:57:00Z,neutron_star_merger,1,ATLAS,S12W22,Gravitational wave detection
+2025-04-10T12:30:00Z,solar_flare,3,Solar Dynamics Observatory,"RA 12h 30m 45s Dec +23° 45' 12""",Class M5.7 flare
+2025-04-25T05:50:00Z,solar_flare,1,IceCube Neutrino Observatory,N12E18,Class M5.7 flare
+2025-04-20T09:11:00Z,gamma_ray_burst,1,Pierre Auger Observatory,S12W22,Duration: 235s
+2025-04-23T10:41:00Z,solar_flare,2,Pierre Auger Observatory,"RA 21h 15m 47s Dec -02° 36' 15""",Class X2.1 flare
+2025-04-02T16:05:00Z,cosmic_ray,1,IceCube Neutrino Observatory,S35W64,Energy: 1.2×10^19 eV
+2025-04-22T23:03:00Z,neutron_star_merger,1,Swift Telescope,"RA 8h 12m 31s Dec -15° 08' 22""",Electromagnetic counterpart observed
+2025-04-28T12:05:00Z,asteroid_approach,1,Pierre Auger Observatory,"RA 8h 12m 31s Dec -15° 08' 22""",1.2 lunar distances
+2025-04-25T04:09:00Z,asteroid_approach,2,Pan-STARRS,"RA 18h 42m 03s Dec +38° 12' 09""",2.4 lunar distances
+2025-04-22T13:58:00Z,neutron_star_merger,1,ATLAS,"RA 21h 15m 47s Dec -02° 36' 15""",Electromagnetic counterpart observed
+2025-04-05T22:02:00Z,asteroid_approach,3,Pierre Auger Observatory,"RA 8h 12m 31s Dec -15° 08' 22""",0.9 lunar distances
+2025-04-09T13:20:00Z,solar_flare,4,SOHO,"RA 21h 15m 47s Dec -02° 36' 15""",Class X5.8 flare
+2025-04-15T17:02:00Z,gamma_ray_burst,1,Swift Telescope,N32W15,Duration: 235s
+2025-04-30T09:22:00Z,asteroid_approach,4,Solar Dynamics Observatory,N12E18,1.2 lunar distances
+2025-04-26T20:28:00Z,gamma_ray_burst,1,IceCube Neutrino Observatory,"RA 8h 12m 31s Dec -15° 08' 22""",Duration: 145s
+2025-04-26T01:45:00Z,gamma_ray_burst,1,Solar Dynamics Observatory,"RA 05h 22m 40s Dec +19° 31' 21""",Duration: 235s
+2025-04-06T02:48:00Z,cosmic_ray,5,Swift Telescope,"RA 21h 15m 47s Dec -02° 36' 15""",Ultra-high energy: 3.2×10^19 eV
+2025-04-26T02:42:00Z,neutron_star_merger,1,Solar Dynamics Observatory,"RA 18h 42m 03s Dec +38° 12' 09""",Electromagnetic counterpart observed
+2025-04-11T17:11:00Z,solar_flare,4,ATLAS,"RA 21h 15m 47s Dec -02° 36' 15""",Class C3.4 flare
+2025-04-17T17:30:00Z,asteroid_approach,3,SOHO,N32W15,2.4 lunar distances
+2025-04-08T11:23:00Z,neutron_star_merger,1,Pierre Auger Observatory,N12E18,Gravitational wave detection
+2025-04-22T08:46:00Z,gamma_ray_burst,4,Swift Telescope,"RA 21h 15m 47s Dec -02° 36' 15""",Duration: 85s
+2025-04-09T22:04:00Z,asteroid_approach,1,Pan-STARRS,S35W64,2.4 lunar distances
+2025-04-05T02:38:00Z,cosmic_ray,3,ATLAS,S12W22,Ultra-high energy: 3.2×10^19 eV
+2025-04-10T01:09:00Z,cosmic_ray,5,DKIST,"RA 8h 12m 31s Dec -15° 08' 22""",Energy: 1.2×10^19 eV
+2025-04-27T16:14:00Z,neutron_star_merger,3,Pierre Auger Observatory,"RA 21h 15m 47s Dec -02° 36' 15""",Gravitational wave detection
+2025-04-24T11:47:00Z,solar_flare,1,Pan-STARRS,N23W45,Class X2.1 flare
+2025-04-08T18:11:00Z,neutron_star_merger,5,IceCube Neutrino Observatory,N23W45,Electromagnetic counterpart observed
+2025-04-04T08:08:00Z,gamma_ray_burst,3,ATLAS,N32W15,Duration: 145s
+2025-04-29T16:12:00Z,gamma_ray_burst,3,Fermi Space Telescope,S35W64,Duration: 145s
+2025-04-20T19:41:00Z,neutron_star_merger,1,Pan-STARRS,N12E18,Electromagnetic counterpart observed
+2025-04-11T18:12:00Z,asteroid_approach,3,LIGO/Virgo,S12W22,1.2 lunar distances
+2025-04-19T00:20:00Z,neutron_star_merger,1,Swift Telescope,"RA 18h 42m 03s Dec +38° 12' 09""",Gravitational wave detection
+2025-04-04T09:57:00Z,gamma_ray_burst,5,Solar Dynamics Observatory,"RA 21h 15m 47s Dec -02° 36' 15""",Duration: 310s
+2025-04-06T21:09:00Z,asteroid_approach,5,Swift Telescope,N12E18,0.9 lunar distances
+2025-04-09T06:43:00Z,asteroid_approach,4,ATLAS,"RA 05h 22m 40s Dec +19° 31' 21""",0.9 lunar distances
+2025-04-11T02:18:00Z,neutron_star_merger,4,ATLAS,N23W45,Electromagnetic counterpart observed
+2025-04-27T10:27:00Z,solar_flare,1,Fermi Space Telescope,N23W45,Class C3.4 flare
+2025-04-28T00:06:00Z,gamma_ray_burst,1,IceCube Neutrino Observatory,"RA 05h 22m 40s Dec +19° 31' 21""",Duration: 145s
+2025-04-22T08:25:00Z,solar_flare,5,LIGO/Virgo,N32W15,Class X5.8 flare
+2025-04-03T16:19:00Z,gamma_ray_burst,3,Swift Telescope,"RA 05h 22m 40s Dec +19° 31' 21""",Duration: 235s
+2025-04-11T08:04:00Z,cosmic_ray,2,Solar Dynamics Observatory,"RA 18h 42m 03s Dec +38° 12' 09""",Energy: 8.7×10^18 eV
+2025-04-02T02:40:00Z,neutron_star_merger,3,SOHO,N12E18,Electromagnetic counterpart observed
+2025-04-10T16:45:00Z,neutron_star_merger,2,ATLAS,"RA 12h 30m 45s Dec +23° 45' 12""",Electromagnetic counterpart observed
+2025-04-26T07:46:00Z,gamma_ray_burst,1,Solar Dynamics Observatory,"RA 18h 42m 03s Dec +38° 12' 09""",Duration: 85s
+2025-04-20T05:49:00Z,gamma_ray_burst,2,Swift Telescope,"RA 8h 12m 31s Dec -15° 08' 22""",Duration: 145s
+2025-04-28T23:15:00Z,cosmic_ray,4,ATLAS,"RA 12h 30m 45s Dec +23° 45' 12""",Ultra-high energy: 3.2×10^19 eV
+2025-04-30T15:05:00Z,solar_flare,4,LIGO/Virgo,S35W64,Class X5.8 flare
+2025-04-05T09:02:00Z,solar_flare,3,Fermi Space Telescope,N12E18,Class X5.8 flare
+2025-04-22T02:04:00Z,neutron_star_merger,1,Fermi Space Telescope,"RA 12h 30m 45s Dec +23° 45' 12""",Electromagnetic counterpart observed
+2025-04-30T02:20:00Z,gamma_ray_burst,3,Pierre Auger Observatory,S35W64,Duration: 85s
+2025-04-15T09:58:00Z,neutron_star_merger,3,IceCube Neutrino Observatory,"RA 12h 30m 45s Dec +23° 45' 12""",Electromagnetic counterpart observed
+2025-04-18T07:50:00Z,asteroid_approach,5,IceCube Neutrino Observatory,N23W45,0.9 lunar distances
+2025-04-25T07:47:00Z,neutron_star_merger,5,Fermi Space Telescope,"RA 8h 12m 31s Dec -15° 08' 22""",Gravitational wave detection
+2025-04-07T09:00:00Z,solar_flare,5,SOHO,S12W22,Class X5.8 flare
+2025-04-19T16:54:00Z,asteroid_approach,4,Pierre Auger Observatory,S12W22,2.4 lunar distances
+2025-04-12T03:45:00Z,cosmic_ray,1,ATLAS,N12E18,Energy: 1.2×10^19 eV
+2025-04-14T01:30:00Z,solar_flare,4,SOHO,S12W22,Class M5.7 flare
+2025-04-01T12:56:00Z,gamma_ray_burst,5,DKIST,N12E18,Duration: 310s
+2025-04-09T07:57:00Z,solar_flare,2,Pan-STARRS,"RA 05h 22m 40s Dec +19° 31' 21""",Class C3.4 flare
+2025-04-21T08:36:00Z,gamma_ray_burst,1,Fermi Space Telescope,N32W15,Duration: 310s
+2025-04-16T17:55:00Z,cosmic_ray,1,Solar Dynamics Observatory,S35W64,Energy: 8.7×10^18 eV
+2025-04-06T14:06:00Z,solar_flare,4,Pan-STARRS,S35W64,Class C3.4 flare
+2025-04-13T21:53:00Z,cosmic_ray,1,SOHO,"RA 18h 42m 03s Dec +38° 12' 09""",Energy: 1.2×10^19 eV
+2025-04-26T09:53:00Z,neutron_star_merger,5,Fermi Space Telescope,"RA 12h 30m 45s Dec +23° 45' 12""",Electromagnetic counterpart observed
+2025-04-08T06:23:00Z,solar_flare,4,SOHO,"RA 18h 42m 03s Dec +38° 12' 09""",Class X5.8 flare
+2025-04-15T03:33:00Z,cosmic_ray,3,SOHO,S35W64,Energy: 1.2×10^19 eV
+2025-04-13T23:44:00Z,gamma_ray_burst,2,SOHO,"RA 21h 15m 47s Dec -02° 36' 15""",Duration: 235s
+2025-04-13T15:47:00Z,gamma_ray_burst,5,Solar Dynamics Observatory,N32W15,Duration: 235s
+2025-04-15T05:26:00Z,neutron_star_merger,1,DKIST,S35W64,Gravitational wave detection
+2025-04-05T14:25:00Z,asteroid_approach,5,LIGO/Virgo,N12E18,1.2 lunar distances
+2025-04-03T12:24:00Z,neutron_star_merger,5,ATLAS,"RA 18h 42m 03s Dec +38° 12' 09""",Gravitational wave detection
+2025-04-26T14:17:00Z,solar_flare,4,ATLAS,S35W64,Class X2.1 flare
+2025-04-11T12:28:00Z,cosmic_ray,3,Fermi Space Telescope,N12E18,Energy: 1.2×10^19 eV
+2025-04-02T11:11:00Z,cosmic_ray,3,Pierre Auger Observatory,N12E18,Ultra-high energy: 3.2×10^19 eV
+2025-04-08T12:09:00Z,gamma_ray_burst,3,DKIST,S12W22,Duration: 310s
+2025-04-09T17:42:00Z,solar_flare,4,DKIST,N12E18,Class X2.1 flare
+2025-04-29T05:42:00Z,solar_flare,2,Swift Telescope,S35W64,Class X2.1 flare
+2025-04-21T01:10:00Z,gamma_ray_burst,1,Swift Telescope,"RA 21h 15m 47s Dec -02° 36' 15""",Duration: 310s
+2025-04-24T02:20:00Z,cosmic_ray,2,Pierre Auger Observatory,"RA 12h 30m 45s Dec +23° 45' 12""",Ultra-high energy: 3.2×10^19 eV
+2025-04-10T09:42:00Z,cosmic_ray,1,SOHO,S12W22,Energy: 1.2×10^19 eV
+2025-04-26T10:52:00Z,cosmic_ray,4,Fermi Space Telescope,"RA 18h 42m 03s Dec +38° 12' 09""",Ultra-high energy: 3.2×10^19 eV
+2025-04-27T06:44:00Z,gamma_ray_burst,2,Swift Telescope,"RA 12h 30m 45s Dec +23° 45' 12""",Duration: 85s
+2025-04-12T10:27:00Z,solar_flare,1,Solar Dynamics Observatory,N12E18,Class C3.4 flare
+2025-04-04T21:46:00Z,neutron_star_merger,1,Fermi Space Telescope,"RA 05h 22m 40s Dec +19° 31' 21""",Electromagnetic counterpart observed
+2025-04-14T04:40:00Z,gamma_ray_burst,2,IceCube Neutrino Observatory,"RA 12h 30m 45s Dec +23° 45' 12""",Duration: 235s
+2025-04-28T10:56:00Z,gamma_ray_burst,4,LIGO/Virgo,"RA 12h 30m 45s Dec +23° 45' 12""",Duration: 145s
+2025-04-10T04:40:00Z,gamma_ray_burst,2,Fermi Space Telescope,S35W64,Duration: 85s
+2025-04-22T22:24:00Z,cosmic_ray,4,Pierre Auger Observatory,"RA 12h 30m 45s Dec +23° 45' 12""",Ultra-high energy: 3.2×10^19 eV
+2025-04-02T05:28:00Z,solar_flare,1,Pierre Auger Observatory,"RA 05h 22m 40s Dec +19° 31' 21""",Class C3.4 flare
+2025-04-26T23:51:00Z,gamma_ray_burst,4,SOHO,"RA 21h 15m 47s Dec -02° 36' 15""",Duration: 85s
+2025-04-22T01:29:00Z,neutron_star_merger,5,Swift Telescope,N23W45,Gravitational wave detection
+2025-04-28T14:19:00Z,neutron_star_merger,2,Swift Telescope,"RA 05h 22m 40s Dec +19° 31' 21""",Electromagnetic counterpart observed
+2025-04-08T09:41:00Z,solar_flare,3,SOHO,S35W64,Class M5.7 flare
+2025-04-03T10:38:00Z,neutron_star_merger,1,Fermi Space Telescope,"RA 05h 22m 40s Dec +19° 31' 21""",Electromagnetic counterpart observed
+2025-04-20T06:48:00Z,solar_flare,3,Fermi Space Telescope,S35W64,Class C3.4 flare
+2025-04-08T07:56:00Z,gamma_ray_burst,4,Swift Telescope,S12W22,Duration: 145s
+2025-04-07T14:39:00Z,cosmic_ray,2,Solar Dynamics Observatory,"RA 05h 22m 40s Dec +19° 31' 21""",Ultra-high energy: 3.2×10^19 eV
+2025-04-06T05:18:00Z,neutron_star_merger,5,Fermi Space Telescope,N23W45,Gravitational wave detection
+2025-04-04T13:17:00Z,gamma_ray_burst,2,SOHO,S35W64,Duration: 85s
+2025-04-18T05:31:00Z,gamma_ray_burst,5,Fermi Space Telescope,"RA 05h 22m 40s Dec +19° 31' 21""",Duration: 310s
+2025-04-19T05:17:00Z,solar_flare,1,Solar Dynamics Observatory,S12W22,Class C3.4 flare
+2025-04-19T06:46:00Z,asteroid_approach,2,SOHO,"RA 21h 15m 47s Dec -02° 36' 15""",0.9 lunar distances
+2025-04-29T01:31:00Z,asteroid_approach,5,SOHO,N23W45,0.9 lunar distances
+2025-04-21T22:50:00Z,gamma_ray_burst,2,LIGO/Virgo,N23W45,Duration: 145s
+2025-04-12T01:16:00Z,neutron_star_merger,3,ATLAS,"RA 21h 15m 47s Dec -02° 36' 15""",Gravitational wave detection
+2025-04-29T16:52:00Z,cosmic_ray,3,SOHO,"RA 21h 15m 47s Dec -02° 36' 15""",Ultra-high energy: 3.2×10^19 eV
+2025-04-08T13:17:00Z,asteroid_approach,5,Swift Telescope,"RA 8h 12m 31s Dec -15° 08' 22""",0.9 lunar distances
+2025-04-22T16:59:00Z,gamma_ray_burst,2,DKIST,"RA 18h 42m 03s Dec +38° 12' 09""",Duration: 145s
+2025-04-10T03:47:00Z,solar_flare,4,DKIST,S12W22,Class X2.1 flare
+2025-04-30T22:23:00Z,solar_flare,3,Pierre Auger Observatory,"RA 12h 30m 45s Dec +23° 45' 12""",Class M5.7 flare
+2025-04-16T11:53:00Z,gamma_ray_burst,2,Fermi Space Telescope,N32W15,Duration: 235s
+2025-04-21T05:23:00Z,gamma_ray_burst,5,Pan-STARRS,N32W15,Duration: 85s
+2025-04-12T00:57:00Z,gamma_ray_burst,5,Fermi Space Telescope,"RA 05h 22m 40s Dec +19° 31' 21""",Duration: 85s
+2025-04-14T14:55:00Z,asteroid_approach,3,DKIST,"RA 8h 12m 31s Dec -15° 08' 22""",0.9 lunar distances
+2025-04-25T06:50:00Z,asteroid_approach,4,Solar Dynamics Observatory,"RA 21h 15m 47s Dec -02° 36' 15""",2.4 lunar distances
+2025-04-15T02:46:00Z,neutron_star_merger,1,DKIST,S35W64,Gravitational wave detection
+2025-04-19T10:53:00Z,asteroid_approach,5,Swift Telescope,S12W22,0.9 lunar distances
+2025-04-16T16:30:00Z,gamma_ray_burst,3,IceCube Neutrino Observatory,"RA 12h 30m 45s Dec +23° 45' 12""",Duration: 145s
+2025-04-25T23:22:00Z,neutron_star_merger,3,ATLAS,S12W22,Gravitational wave detection
+2025-04-10T03:26:00Z,cosmic_ray,5,Solar Dynamics Observatory,N23W45,Energy: 1.2×10^19 eV
+2025-04-14T05:27:00Z,asteroid_approach,4,DKIST,"RA 12h 30m 45s Dec +23° 45' 12""",2.4 lunar distances
+2025-04-04T10:36:00Z,neutron_star_merger,4,Pierre Auger Observatory,"RA 05h 22m 40s Dec +19° 31' 21""",Gravitational wave detection
+2025-04-10T22:25:00Z,gamma_ray_burst,2,Pierre Auger Observatory,"RA 18h 42m 03s Dec +38° 12' 09""",Duration: 310s
+2025-04-17T10:46:00Z,cosmic_ray,4,ATLAS,S35W64,Ultra-high energy: 3.2×10^19 eV
+2025-04-08T08:24:00Z,neutron_star_merger,3,Swift Telescope,"RA 18h 42m 03s Dec +38° 12' 09""",Gravitational wave detection
+2025-04-14T14:48:00Z,neutron_star_merger,4,Pan-STARRS,N12E18,Gravitational wave detection
+2025-04-09T12:11:00Z,asteroid_approach,5,Pan-STARRS,"RA 05h 22m 40s Dec +19° 31' 21""",1.2 lunar distances
+2025-04-10T14:29:00Z,gamma_ray_burst,1,SOHO,N32W15,Duration: 310s
+2025-04-22T13:22:00Z,neutron_star_merger,4,IceCube Neutrino Observatory,N32W15,Gravitational wave detection
+2025-04-18T01:07:00Z,asteroid_approach,5,DKIST,N12E18,0.9 lunar distances
+2025-04-09T19:55:00Z,asteroid_approach,5,ATLAS,"RA 18h 42m 03s Dec +38° 12' 09""",0.9 lunar distances
+2025-04-11T01:09:00Z,solar_flare,1,DKIST,"RA 12h 30m 45s Dec +23° 45' 12""",Class C3.4 flare
+2025-04-20T04:49:00Z,gamma_ray_burst,5,IceCube Neutrino Observatory,"RA 12h 30m 45s Dec +23° 45' 12""",Duration: 235s
+2025-04-25T01:10:00Z,solar_flare,3,DKIST,N32W15,Class X5.8 flare
+2025-04-23T14:54:00Z,asteroid_approach,1,IceCube Neutrino Observatory,"RA 05h 22m 40s Dec +19° 31' 21""",1.2 lunar distances
+2025-04-20T21:42:00Z,cosmic_ray,2,DKIST,N32W15,Ultra-high energy: 3.2×10^19 eV
+2025-04-21T21:20:00Z,neutron_star_merger,2,Swift Telescope,N32W15,Electromagnetic counterpart observed
+2025-04-25T01:06:00Z,gamma_ray_burst,4,Pierre Auger Observatory,"RA 05h 22m 40s Dec +19° 31' 21""",Duration: 145s
+2025-04-23T16:14:00Z,asteroid_approach,4,DKIST,"RA 21h 15m 47s Dec -02° 36' 15""",0.9 lunar distances
+2025-04-18T20:31:00Z,cosmic_ray,2,SOHO,N32W15,Ultra-high energy: 3.2×10^19 eV
+2025-04-26T03:05:00Z,asteroid_approach,1,LIGO/Virgo,N12E18,1.2 lunar distances
+2025-04-01T14:00:00Z,cosmic_ray,2,Fermi Space Telescope,"RA 8h 12m 31s Dec -15° 08' 22""",Energy: 8.7×10^18 eV
+2025-04-02T15:42:00Z,gamma_ray_burst,4,Solar Dynamics Observatory,N23W45,Duration: 145s
+2025-04-09T13:35:00Z,asteroid_approach,2,ATLAS,N12E18,0.9 lunar distances
+2025-04-24T05:47:00Z,gamma_ray_burst,1,Pan-STARRS,"RA 05h 22m 40s Dec +19° 31' 21""",Duration: 235s
+2025-04-29T20:48:00Z,gamma_ray_burst,2,LIGO/Virgo,"RA 05h 22m 40s Dec +19° 31' 21""",Duration: 310s
+2025-04-30T21:03:00Z,solar_flare,2,Fermi Space Telescope,"RA 8h 12m 31s Dec -15° 08' 22""",Class C3.4 flare
+2025-04-20T08:40:00Z,asteroid_approach,5,ATLAS,"RA 21h 15m 47s Dec -02° 36' 15""",2.4 lunar distances
+2025-04-29T05:51:00Z,asteroid_approach,1,Pan-STARRS,"RA 8h 12m 31s Dec -15° 08' 22""",2.4 lunar distances
+2025-04-18T16:42:00Z,solar_flare,2,ATLAS,"RA 12h 30m 45s Dec +23° 45' 12""",Class C3.4 flare
+2025-04-12T08:29:00Z,asteroid_approach,2,DKIST,"RA 21h 15m 47s Dec -02° 36' 15""",0.9 lunar distances
+2025-04-01T11:58:00Z,neutron_star_merger,5,DKIST,"RA 18h 42m 03s Dec +38° 12' 09""",Gravitational wave detection
+2025-04-30T22:47:00Z,solar_flare,4,IceCube Neutrino Observatory,"RA 8h 12m 31s Dec -15° 08' 22""",Class X5.8 flare
+2025-04-29T07:10:00Z,gamma_ray_burst,4,Pierre Auger Observatory,N32W15,Duration: 310s
+2025-04-08T14:31:00Z,neutron_star_merger,1,SOHO,S35W64,Electromagnetic counterpart observed
+2025-04-09T19:06:00Z,asteroid_approach,3,IceCube Neutrino Observatory,S12W22,2.4 lunar distances
+2025-04-13T18:13:00Z,solar_flare,3,Swift Telescope,S12W22,Class X2.1 flare
+2025-04-19T04:55:00Z,gamma_ray_burst,3,DKIST,N32W15,Duration: 145s
+2025-04-07T08:49:00Z,gamma_ray_burst,3,Pierre Auger Observatory,N23W45,Duration: 310s
+2025-04-01T20:36:00Z,solar_flare,2,Solar Dynamics Observatory,N32W15,Class X5.8 flare
+2025-04-23T08:26:00Z,gamma_ray_burst,3,DKIST,N32W15,Duration: 145s
+2025-04-09T00:03:00Z,solar_flare,5,SOHO,"RA 05h 22m 40s Dec +19° 31' 21""",Class C3.4 flare
+2025-04-19T11:18:00Z,solar_flare,2,Swift Telescope,"RA 12h 30m 45s Dec +23° 45' 12""",Class X5.8 flare
+2025-04-09T12:07:00Z,gamma_ray_burst,2,Pan-STARRS,N12E18,Duration: 85s
+2025-04-28T17:05:00Z,cosmic_ray,5,Solar Dynamics Observatory,S12W22,Energy: 1.2×10^19 eV
+2025-04-28T23:32:00Z,asteroid_approach,2,Solar Dynamics Observatory,"RA 21h 15m 47s Dec -02° 36' 15""",0.9 lunar distances
+2025-04-04T03:54:00Z,neutron_star_merger,1,DKIST,S35W64,Electromagnetic counterpart observed
+2025-04-16T13:09:00Z,asteroid_approach,4,Pierre Auger Observatory,N32W15,2.4 lunar distances
+2025-04-25T22:40:00Z,solar_flare,5,Pan-STARRS,"RA 12h 30m 45s Dec +23° 45' 12""",Class X5.8 flare
+2025-04-01T20:07:00Z,asteroid_approach,3,LIGO/Virgo,"RA 21h 15m 47s Dec -02° 36' 15""",2.4 lunar distances
+2025-04-04T13:45:00Z,gamma_ray_burst,4,ATLAS,N23W45,Duration: 310s
+2025-04-13T21:33:00Z,neutron_star_merger,5,Pan-STARRS,N23W45,Gravitational wave detection
+2025-04-19T17:10:00Z,gamma_ray_burst,3,Pan-STARRS,N23W45,Duration: 310s
+2025-04-17T01:48:00Z,gamma_ray_burst,4,Swift Telescope,N32W15,Duration: 235s
+2025-04-14T11:31:00Z,neutron_star_merger,1,Pan-STARRS,N32W15,Electromagnetic counterpart observed
+2025-04-09T10:25:00Z,solar_flare,5,Fermi Space Telescope,"RA 12h 30m 45s Dec +23° 45' 12""",Class M5.7 flare
+2025-04-20T07:08:00Z,solar_flare,4,Swift Telescope,"RA 05h 22m 40s Dec +19° 31' 21""",Class X5.8 flare
+2025-04-11T16:08:00Z,cosmic_ray,3,IceCube Neutrino Observatory,"RA 21h 15m 47s Dec -02° 36' 15""",Energy: 8.7×10^18 eV
+2025-04-23T20:25:00Z,solar_flare,5,Fermi Space Telescope,"RA 18h 42m 03s Dec +38° 12' 09""",Class X2.1 flare
+2025-04-16T23:11:00Z,neutron_star_merger,5,IceCube Neutrino Observatory,"RA 18h 42m 03s Dec +38° 12' 09""",Gravitational wave detection
+2025-04-05T12:56:00Z,solar_flare,2,Fermi Space Telescope,S12W22,Class C3.4 flare
+2025-04-15T01:42:00Z,asteroid_approach,1,Fermi Space Telescope,"RA 12h 30m 45s Dec +23° 45' 12""",0.9 lunar distances
+2025-04-28T15:21:00Z,asteroid_approach,2,SOHO,"RA 8h 12m 31s Dec -15° 08' 22""",2.4 lunar distances
+2025-04-24T01:17:00Z,asteroid_approach,3,Pan-STARRS,S12W22,1.2 lunar distances
+2025-04-21T09:46:00Z,neutron_star_merger,4,Swift Telescope,"RA 05h 22m 40s Dec +19° 31' 21""",Gravitational wave detection
+2025-04-20T05:52:00Z,neutron_star_merger,3,IceCube Neutrino Observatory,"RA 18h 42m 03s Dec +38° 12' 09""",Gravitational wave detection
+2025-04-27T11:39:00Z,gamma_ray_burst,4,Solar Dynamics Observatory,"RA 8h 12m 31s Dec -15° 08' 22""",Duration: 145s
+2025-04-15T03:47:00Z,cosmic_ray,3,DKIST,"RA 21h 15m 47s Dec -02° 36' 15""",Ultra-high energy: 3.2×10^19 eV
+2025-04-21T16:53:00Z,cosmic_ray,3,IceCube Neutrino Observatory,N23W45,Energy: 8.7×10^18 eV
+2025-04-04T03:56:00Z,gamma_ray_burst,5,LIGO/Virgo,"RA 8h 12m 31s Dec -15° 08' 22""",Duration: 145s
+2025-04-06T23:40:00Z,asteroid_approach,2,SOHO,N32W15,0.9 lunar distances
+2025-04-06T16:33:00Z,gamma_ray_burst,1,DKIST,"RA 21h 15m 47s Dec -02° 36' 15""",Duration: 85s
+2025-04-19T03:49:00Z,asteroid_approach,2,IceCube Neutrino Observatory,N32W15,1.2 lunar distances
+2025-04-16T09:38:00Z,gamma_ray_burst,5,Swift Telescope,"RA 8h 12m 31s Dec -15° 08' 22""",Duration: 145s
+2025-04-29T17:09:00Z,asteroid_approach,2,Pan-STARRS,"RA 05h 22m 40s Dec +19° 31' 21""",0.9 lunar distances
+2025-04-26T08:50:00Z,solar_flare,3,Pierre Auger Observatory,N12E18,Class M5.7 flare
+2025-04-17T20:35:00Z,gamma_ray_burst,2,Fermi Space Telescope,N23W45,Duration: 145s
+2025-04-16T05:46:00Z,solar_flare,4,Swift Telescope,"RA 05h 22m 40s Dec +19° 31' 21""",Class M5.7 flare
+2025-04-18T01:00:00Z,cosmic_ray,4,Fermi Space Telescope,S12W22,Energy: 1.2×10^19 eV
+2025-04-01T19:18:00Z,solar_flare,1,Swift Telescope,N23W45,Class M5.7 flare
+2025-04-18T05:20:00Z,asteroid_approach,5,SOHO,N12E18,2.4 lunar distances
+2025-04-28T10:51:00Z,gamma_ray_burst,5,Pan-STARRS,"RA 21h 15m 47s Dec -02° 36' 15""",Duration: 85s
+2025-04-09T04:00:00Z,solar_flare,5,Pan-STARRS,"RA 8h 12m 31s Dec -15° 08' 22""",Class X5.8 flare
+2025-04-18T20:14:00Z,asteroid_approach,3,LIGO/Virgo,"RA 12h 30m 45s Dec +23° 45' 12""",0.9 lunar distances
+2025-04-22T20:35:00Z,gamma_ray_burst,2,ATLAS,"RA 21h 15m 47s Dec -02° 36' 15""",Duration: 235s
+2025-04-17T18:17:00Z,asteroid_approach,3,SOHO,"RA 05h 22m 40s Dec +19° 31' 21""",2.4 lunar distances
+2025-04-11T18:09:00Z,gamma_ray_burst,2,Pierre Auger Observatory,"RA 8h 12m 31s Dec -15° 08' 22""",Duration: 235s
+2025-04-27T16:23:00Z,asteroid_approach,2,DKIST,"RA 18h 42m 03s Dec +38° 12' 09""",0.9 lunar distances
+2025-04-06T18:10:00Z,solar_flare,5,Fermi Space Telescope,S35W64,Class X5.8 flare
+2025-04-13T08:34:00Z,cosmic_ray,3,DKIST,S12W22,Ultra-high energy: 3.2×10^19 eV
+2025-04-28T04:47:00Z,solar_flare,3,Swift Telescope,"RA 18h 42m 03s Dec +38° 12' 09""",Class C3.4 flare
+2025-04-02T04:07:00Z,cosmic_ray,4,DKIST,"RA 05h 22m 40s Dec +19° 31' 21""",Ultra-high energy: 3.2×10^19 eV
+2025-04-20T16:55:00Z,cosmic_ray,2,Fermi Space Telescope,S12W22,Ultra-high energy: 3.2×10^19 eV
+2025-04-22T22:10:00Z,cosmic_ray,2,LIGO/Virgo,"RA 12h 30m 45s Dec +23° 45' 12""",Ultra-high energy: 3.2×10^19 eV
+2025-04-03T17:48:00Z,neutron_star_merger,5,Fermi Space Telescope,N32W15,Gravitational wave detection
+2025-04-26T08:56:00Z,cosmic_ray,2,Solar Dynamics Observatory,"RA 05h 22m 40s Dec +19° 31' 21""",Energy: 1.2×10^19 eV
+2025-04-27T18:53:00Z,gamma_ray_burst,5,LIGO/Virgo,N32W15,Duration: 235s
+2025-04-14T02:17:00Z,neutron_star_merger,1,Pan-STARRS,"RA 12h 30m 45s Dec +23° 45' 12""",Gravitational wave detection
+2025-04-16T18:55:00Z,neutron_star_merger,1,DKIST,S12W22,Electromagnetic counterpart observed
+2025-04-11T02:00:00Z,neutron_star_merger,3,Solar Dynamics Observatory,"RA 21h 15m 47s Dec -02° 36' 15""",Electromagnetic counterpart observed
+2025-04-01T21:31:00Z,asteroid_approach,4,Fermi Space Telescope,"RA 21h 15m 47s Dec -02° 36' 15""",1.2 lunar distances
+2025-04-24T12:52:00Z,cosmic_ray,3,Pan-STARRS,"RA 21h 15m 47s Dec -02° 36' 15""",Ultra-high energy: 3.2×10^19 eV
+2025-04-07T19:21:00Z,asteroid_approach,3,Swift Telescope,S12W22,2.4 lunar distances
+2025-04-03T16:10:00Z,neutron_star_merger,1,LIGO/Virgo,"RA 18h 42m 03s Dec +38° 12' 09""",Electromagnetic counterpart observed
+2025-04-04T18:16:00Z,asteroid_approach,1,Solar Dynamics Observatory,"RA 18h 42m 03s Dec +38° 12' 09""",0.9 lunar distances
+2025-04-26T18:35:00Z,solar_flare,3,LIGO/Virgo,"RA 21h 15m 47s Dec -02° 36' 15""",Class M5.7 flare
+2025-04-11T03:31:00Z,neutron_star_merger,3,Fermi Space Telescope,S12W22,Electromagnetic counterpart observed
+2025-04-03T00:03:00Z,asteroid_approach,1,Pierre Auger Observatory,S12W22,2.4 lunar distances
+2025-04-28T23:22:00Z,asteroid_approach,3,Pierre Auger Observatory,"RA 18h 42m 03s Dec +38° 12' 09""",0.9 lunar distances
+2025-04-10T08:09:00Z,neutron_star_merger,4,Solar Dynamics Observatory,"RA 8h 12m 31s Dec -15° 08' 22""",Gravitational wave detection
+2025-04-22T10:32:00Z,gamma_ray_burst,2,Swift Telescope,S35W64,Duration: 310s
+2025-04-04T15:19:00Z,asteroid_approach,2,IceCube Neutrino Observatory,S35W64,2.4 lunar distances
+2025-04-04T14:13:00Z,cosmic_ray,4,Fermi Space Telescope,N12E18,Energy: 8.7×10^18 eV
+2025-04-01T06:05:00Z,solar_flare,2,Fermi Space Telescope,"RA 18h 42m 03s Dec +38° 12' 09""",Class M5.7 flare
+2025-04-23T19:49:00Z,neutron_star_merger,3,DKIST,"RA 12h 30m 45s Dec +23° 45' 12""",Gravitational wave detection
+2025-04-10T21:04:00Z,gamma_ray_burst,4,Swift Telescope,S35W64,Duration: 235s
+2025-04-10T11:36:00Z,neutron_star_merger,5,LIGO/Virgo,"RA 18h 42m 03s Dec +38° 12' 09""",Electromagnetic counterpart observed
+2025-04-25T07:57:00Z,cosmic_ray,1,DKIST,"RA 18h 42m 03s Dec +38° 12' 09""",Ultra-high energy: 3.2×10^19 eV
+2025-04-29T16:10:00Z,neutron_star_merger,1,ATLAS,"RA 21h 15m 47s Dec -02° 36' 15""",Electromagnetic counterpart observed
+2025-04-30T00:04:00Z,neutron_star_merger,4,LIGO/Virgo,"RA 12h 30m 45s Dec +23° 45' 12""",Gravitational wave detection
+2025-04-11T09:44:00Z,neutron_star_merger,4,Swift Telescope,N23W45,Gravitational wave detection
+2025-04-01T17:31:00Z,neutron_star_merger,1,ATLAS,"RA 18h 42m 03s Dec +38° 12' 09""",Gravitational wave detection
+2025-04-19T05:15:00Z,asteroid_approach,3,ATLAS,"RA 8h 12m 31s Dec -15° 08' 22""",0.9 lunar distances
+2025-04-19T14:48:00Z,cosmic_ray,1,Pan-STARRS,S12W22,Energy: 8.7×10^18 eV
+2025-04-23T23:14:00Z,cosmic_ray,4,Solar Dynamics Observatory,"RA 8h 12m 31s Dec -15° 08' 22""",Ultra-high energy: 3.2×10^19 eV
+2025-04-27T00:21:00Z,solar_flare,2,Pan-STARRS,S12W22,Class X5.8 flare
+2025-04-20T01:19:00Z,gamma_ray_burst,5,Pan-STARRS,S12W22,Duration: 310s
+2025-04-09T01:39:00Z,solar_flare,5,Pan-STARRS,S35W64,Class X5.8 flare
+2025-04-01T02:28:00Z,solar_flare,4,DKIST,"RA 18h 42m 03s Dec +38° 12' 09""",Class M5.7 flare
+2025-04-21T17:22:00Z,neutron_star_merger,1,Pierre Auger Observatory,N12E18,Gravitational wave detection
+2025-04-21T09:06:00Z,solar_flare,2,Solar Dynamics Observatory,"RA 21h 15m 47s Dec -02° 36' 15""",Class X5.8 flare
+2025-04-21T19:06:00Z,gamma_ray_burst,1,ATLAS,"RA 05h 22m 40s Dec +19° 31' 21""",Duration: 235s
+2025-04-04T08:21:00Z,cosmic_ray,4,SOHO,"RA 05h 22m 40s Dec +19° 31' 21""",Ultra-high energy: 3.2×10^19 eV
+2025-04-13T02:32:00Z,cosmic_ray,1,Fermi Space Telescope,"RA 05h 22m 40s Dec +19° 31' 21""",Energy: 1.2×10^19 eV
+2025-04-14T07:50:00Z,solar_flare,2,IceCube Neutrino Observatory,"RA 8h 12m 31s Dec -15° 08' 22""",Class M5.7 flare
+2025-04-20T07:20:00Z,asteroid_approach,1,Swift Telescope,N12E18,2.4 lunar distances
+2025-04-09T00:00:00Z,neutron_star_merger,5,Swift Telescope,"RA 18h 42m 03s Dec +38° 12' 09""",Electromagnetic counterpart observed
+2025-04-02T15:10:00Z,neutron_star_merger,1,Pan-STARRS,"RA 8h 12m 31s Dec -15° 08' 22""",Electromagnetic counterpart observed
+2025-04-01T08:56:00Z,cosmic_ray,2,Fermi Space Telescope,"RA 12h 30m 45s Dec +23° 45' 12""",Energy: 1.2×10^19 eV
+2025-04-28T10:35:00Z,solar_flare,4,LIGO/Virgo,"RA 05h 22m 40s Dec +19° 31' 21""",Class X5.8 flare
+2025-04-02T14:01:00Z,cosmic_ray,3,SOHO,N23W45,Energy: 8.7×10^18 eV
+2025-04-03T14:07:00Z,solar_flare,5,LIGO/Virgo,"RA 18h 42m 03s Dec +38° 12' 09""",Class X2.1 flare
+2025-04-01T16:28:00Z,solar_flare,1,SOHO,S35W64,Class X5.8 flare
+2025-04-03T10:06:00Z,solar_flare,3,Pan-STARRS,"RA 05h 22m 40s Dec +19° 31' 21""",Class M5.7 flare
+2025-04-06T20:47:00Z,gamma_ray_burst,2,SOHO,N23W45,Duration: 85s
+2025-04-13T20:17:00Z,asteroid_approach,5,Fermi Space Telescope,N12E18,2.4 lunar distances
+2025-04-19T08:13:00Z,gamma_ray_burst,5,LIGO/Virgo,"RA 12h 30m 45s Dec +23° 45' 12""",Duration: 145s
+2025-04-20T12:22:00Z,cosmic_ray,2,IceCube Neutrino Observatory,"RA 21h 15m 47s Dec -02° 36' 15""",Ultra-high energy: 3.2×10^19 eV
+2025-04-08T15:38:00Z,cosmic_ray,5,Pierre Auger Observatory,"RA 18h 42m 03s Dec +38° 12' 09""",Energy: 1.2×10^19 eV
+2025-04-15T12:33:00Z,cosmic_ray,5,LIGO/Virgo,N12E18,Energy: 1.2×10^19 eV
+2025-04-19T06:23:00Z,gamma_ray_burst,5,Fermi Space Telescope,"RA 21h 15m 47s Dec -02° 36' 15""",Duration: 235s
+2025-04-08T04:03:00Z,cosmic_ray,5,Solar Dynamics Observatory,N23W45,Ultra-high energy: 3.2×10^19 eV
+2025-04-12T11:37:00Z,solar_flare,4,DKIST,"RA 18h 42m 03s Dec +38° 12' 09""",Class C3.4 flare
+2025-04-27T00:39:00Z,neutron_star_merger,5,Pierre Auger Observatory,S35W64,Gravitational wave detection
+2025-04-19T16:24:00Z,solar_flare,5,Swift Telescope,"RA 12h 30m 45s Dec +23° 45' 12""",Class X2.1 flare
+2025-04-15T15:21:00Z,cosmic_ray,5,Pan-STARRS,"RA 8h 12m 31s Dec -15° 08' 22""",Ultra-high energy: 3.2×10^19 eV
+2025-04-14T12:18:00Z,asteroid_approach,4,Solar Dynamics Observatory,N23W45,2.4 lunar distances
+2025-04-17T12:04:00Z,solar_flare,4,Fermi Space Telescope,N23W45,Class X5.8 flare
+2025-04-23T02:58:00Z,cosmic_ray,3,ATLAS,N32W15,Energy: 8.7×10^18 eV
+2025-04-26T19:55:00Z,gamma_ray_burst,4,Fermi Space Telescope,"RA 8h 12m 31s Dec -15° 08' 22""",Duration: 310s
+2025-04-24T06:29:00Z,gamma_ray_burst,1,Fermi Space Telescope,S35W64,Duration: 145s
+2025-04-06T14:50:00Z,neutron_star_merger,1,IceCube Neutrino Observatory,"RA 05h 22m 40s Dec +19° 31' 21""",Electromagnetic counterpart observed
+2025-04-07T19:42:00Z,gamma_ray_burst,3,LIGO/Virgo,"RA 12h 30m 45s Dec +23° 45' 12""",Duration: 235s
+2025-04-22T20:04:00Z,solar_flare,1,Solar Dynamics Observatory,"RA 8h 12m 31s Dec -15° 08' 22""",Class M5.7 flare
+2025-04-22T16:47:00Z,gamma_ray_burst,3,Fermi Space Telescope,N12E18,Duration: 235s
+2025-04-17T01:57:00Z,asteroid_approach,5,Pan-STARRS,"RA 12h 30m 45s Dec +23° 45' 12""",1.2 lunar distances
+2025-04-25T07:26:00Z,neutron_star_merger,1,Solar Dynamics Observatory,N32W15,Gravitational wave detection
+2025-04-29T05:24:00Z,gamma_ray_burst,5,LIGO/Virgo,"RA 05h 22m 40s Dec +19° 31' 21""",Duration: 310s
+2025-04-25T07:19:00Z,gamma_ray_burst,5,LIGO/Virgo,"RA 8h 12m 31s Dec -15° 08' 22""",Duration: 145s
+2025-04-18T06:24:00Z,asteroid_approach,4,Swift Telescope,N32W15,2.4 lunar distances
+2025-04-25T07:51:00Z,gamma_ray_burst,5,Swift Telescope,"RA 18h 42m 03s Dec +38° 12' 09""",Duration: 85s
+2025-04-17T18:57:00Z,neutron_star_merger,2,SOHO,N32W15,Electromagnetic counterpart observed
+2025-04-27T08:49:00Z,cosmic_ray,4,Fermi Space Telescope,"RA 12h 30m 45s Dec +23° 45' 12""",Energy: 8.7×10^18 eV
+2025-04-12T07:56:00Z,cosmic_ray,5,SOHO,"RA 8h 12m 31s Dec -15° 08' 22""",Ultra-high energy: 3.2×10^19 eV
+2025-04-28T22:43:00Z,cosmic_ray,5,Pan-STARRS,N23W45,Energy: 1.2×10^19 eV
+2025-04-30T13:49:00Z,cosmic_ray,5,SOHO,"RA 12h 30m 45s Dec +23° 45' 12""",Energy: 1.2×10^19 eV
+2025-04-09T15:25:00Z,solar_flare,5,Solar Dynamics Observatory,"RA 21h 15m 47s Dec -02° 36' 15""",Class C3.4 flare
+2025-04-23T16:32:00Z,neutron_star_merger,2,Fermi Space Telescope,"RA 05h 22m 40s Dec +19° 31' 21""",Electromagnetic counterpart observed
+2025-04-26T08:13:00Z,solar_flare,5,Pan-STARRS,"RA 05h 22m 40s Dec +19° 31' 21""",Class X5.8 flare
+2025-04-16T05:42:00Z,gamma_ray_burst,4,IceCube Neutrino Observatory,N23W45,Duration: 145s
+2025-04-08T10:53:00Z,asteroid_approach,4,Fermi Space Telescope,N12E18,0.9 lunar distances
+2025-04-20T06:51:00Z,solar_flare,2,IceCube Neutrino Observatory,S12W22,Class C3.4 flare
+2025-04-04T00:23:00Z,cosmic_ray,4,Fermi Space Telescope,N23W45,Ultra-high energy: 3.2×10^19 eV
+2025-04-11T06:42:00Z,gamma_ray_burst,1,LIGO/Virgo,"RA 05h 22m 40s Dec +19° 31' 21""",Duration: 85s
+2025-04-04T10:37:00Z,solar_flare,5,SOHO,N32W15,Class X5.8 flare
+2025-04-08T08:24:00Z,cosmic_ray,1,SOHO,S35W64,Energy: 1.2×10^19 eV
+2025-04-25T06:07:00Z,gamma_ray_burst,1,Fermi Space Telescope,N12E18,Duration: 235s
+2025-04-03T09:17:00Z,solar_flare,3,Pan-STARRS,N12E18,Class M5.7 flare
+2025-04-01T07:07:00Z,solar_flare,3,Swift Telescope,"RA 18h 42m 03s Dec +38° 12' 09""",Class X5.8 flare
+2025-04-08T09:23:00Z,neutron_star_merger,3,SOHO,"RA 18h 42m 03s Dec +38° 12' 09""",Gravitational wave detection
+2025-04-12T09:19:00Z,asteroid_approach,4,IceCube Neutrino Observatory,"RA 8h 12m 31s Dec -15° 08' 22""",1.2 lunar distances
+2025-04-04T18:41:00Z,asteroid_approach,4,Fermi Space Telescope,S12W22,0.9 lunar distances
+2025-04-29T11:37:00Z,gamma_ray_burst,2,Pan-STARRS,N12E18,Duration: 145s
+2025-04-28T12:05:00Z,neutron_star_merger,3,SOHO,"RA 8h 12m 31s Dec -15° 08' 22""",Gravitational wave detection
+2025-04-21T09:59:00Z,neutron_star_merger,5,DKIST,N32W15,Electromagnetic counterpart observed
+2025-04-20T21:32:00Z,gamma_ray_burst,4,Fermi Space Telescope,"RA 8h 12m 31s Dec -15° 08' 22""",Duration: 310s
+2025-04-07T11:30:00Z,cosmic_ray,4,DKIST,N12E18,Energy: 8.7×10^18 eV
+2025-04-17T22:36:00Z,cosmic_ray,2,Fermi Space Telescope,N12E18,Ultra-high energy: 3.2×10^19 eV
+2025-04-10T11:16:00Z,cosmic_ray,3,ATLAS,N23W45,Energy: 8.7×10^18 eV
+2025-04-27T03:32:00Z,neutron_star_merger,4,Fermi Space Telescope,"RA 05h 22m 40s Dec +19° 31' 21""",Gravitational wave detection
+2025-04-26T11:28:00Z,cosmic_ray,1,Pan-STARRS,"RA 05h 22m 40s Dec +19° 31' 21""",Energy: 8.7×10^18 eV
+2025-04-29T03:07:00Z,solar_flare,4,DKIST,"RA 18h 42m 03s Dec +38° 12' 09""",Class X2.1 flare
+2025-04-22T15:43:00Z,asteroid_approach,3,Fermi Space Telescope,"RA 8h 12m 31s Dec -15° 08' 22""",2.4 lunar distances
+2025-04-12T17:12:00Z,gamma_ray_burst,5,Solar Dynamics Observatory,"RA 21h 15m 47s Dec -02° 36' 15""",Duration: 310s
+2025-04-16T06:06:00Z,cosmic_ray,5,ATLAS,N32W15,Energy: 8.7×10^18 eV
+2025-04-01T07:00:00Z,gamma_ray_burst,5,Swift Telescope,"RA 18h 42m 03s Dec +38° 12' 09""",Duration: 85s
+2025-04-02T03:15:00Z,cosmic_ray,4,Fermi Space Telescope,S12W22,Ultra-high energy: 3.2×10^19 eV
+2025-04-22T22:06:00Z,solar_flare,3,Swift Telescope,"RA 21h 15m 47s Dec -02° 36' 15""",Class X2.1 flare
+2025-04-11T13:30:00Z,solar_flare,5,ATLAS,"RA 12h 30m 45s Dec +23° 45' 12""",Class X2.1 flare
+2025-04-09T00:08:00Z,solar_flare,3,Pierre Auger Observatory,N23W45,Class C3.4 flare
+2025-04-22T22:01:00Z,asteroid_approach,3,Pan-STARRS,"RA 21h 15m 47s Dec -02° 36' 15""",1.2 lunar distances
+2025-04-10T22:03:00Z,solar_flare,1,SOHO,"RA 8h 12m 31s Dec -15° 08' 22""",Class X2.1 flare
+2025-04-25T14:35:00Z,cosmic_ray,5,IceCube Neutrino Observatory,N32W15,Energy: 8.7×10^18 eV
+2025-04-11T19:30:00Z,neutron_star_merger,3,Fermi Space Telescope,"RA 18h 42m 03s Dec +38° 12' 09""",Electromagnetic counterpart observed
+2025-04-25T07:18:00Z,cosmic_ray,3,LIGO/Virgo,"RA 12h 30m 45s Dec +23° 45' 12""",Ultra-high energy: 3.2×10^19 eV
+2025-04-24T15:40:00Z,cosmic_ray,5,Pan-STARRS,S12W22,Energy: 8.7×10^18 eV
+2025-04-23T17:23:00Z,solar_flare,1,Pan-STARRS,N32W15,Class X2.1 flare
+2025-04-06T15:08:00Z,cosmic_ray,3,LIGO/Virgo,N32W15,Energy: 8.7×10^18 eV
+2025-04-27T05:07:00Z,cosmic_ray,2,Pan-STARRS,"RA 18h 42m 03s Dec +38° 12' 09""",Energy: 1.2×10^19 eV
+2025-04-17T13:58:00Z,asteroid_approach,3,ATLAS,"RA 8h 12m 31s Dec -15° 08' 22""",0.9 lunar distances
+2025-04-18T10:17:00Z,gamma_ray_burst,2,Swift Telescope,N23W45,Duration: 235s
+2025-04-25T03:39:00Z,gamma_ray_burst,2,Swift Telescope,S12W22,Duration: 235s
+2025-04-12T21:48:00Z,gamma_ray_burst,5,LIGO/Virgo,N32W15,Duration: 145s
+2025-04-08T15:40:00Z,solar_flare,5,DKIST,"RA 05h 22m 40s Dec +19° 31' 21""",Class C3.4 flare
+2025-04-15T02:31:00Z,gamma_ray_burst,2,LIGO/Virgo,N32W15,Duration: 85s
+2025-04-19T09:27:00Z,neutron_star_merger,1,LIGO/Virgo,S12W22,Electromagnetic counterpart observed
+2025-04-17T05:32:00Z,neutron_star_merger,4,LIGO/Virgo,N23W45,Electromagnetic counterpart observed
+2025-04-25T11:54:00Z,cosmic_ray,4,SOHO,S12W22,Ultra-high energy: 3.2×10^19 eV
+2025-04-26T05:15:00Z,solar_flare,3,IceCube Neutrino Observatory,S12W22,Class X2.1 flare
+2025-04-16T22:01:00Z,gamma_ray_burst,5,Solar Dynamics Observatory,S35W64,Duration: 145s
+2025-04-13T03:29:00Z,cosmic_ray,2,Swift Telescope,N32W15,Ultra-high energy: 3.2×10^19 eV
+2025-04-02T20:46:00Z,asteroid_approach,4,Solar Dynamics Observatory,"RA 8h 12m 31s Dec -15° 08' 22""",1.2 lunar distances
+2025-04-04T02:41:00Z,solar_flare,1,DKIST,"RA 18h 42m 03s Dec +38° 12' 09""",Class X5.8 flare
+2025-04-18T12:35:00Z,gamma_ray_burst,4,Pierre Auger Observatory,N23W45,Duration: 85s
+2025-04-05T02:29:00Z,asteroid_approach,1,Pan-STARRS,"RA 05h 22m 40s Dec +19° 31' 21""",1.2 lunar distances
+2025-04-11T05:49:00Z,cosmic_ray,5,Swift Telescope,N23W45,Energy: 1.2×10^19 eV
+2025-04-06T07:57:00Z,asteroid_approach,3,IceCube Neutrino Observatory,"RA 8h 12m 31s Dec -15° 08' 22""",2.4 lunar distances
+2025-04-09T06:48:00Z,asteroid_approach,3,LIGO/Virgo,"RA 12h 30m 45s Dec +23° 45' 12""",1.2 lunar distances
+2025-04-06T21:35:00Z,solar_flare,4,DKIST,"RA 18h 42m 03s Dec +38° 12' 09""",Class X2.1 flare
+2025-04-02T16:11:00Z,neutron_star_merger,5,Solar Dynamics Observatory,"RA 8h 12m 31s Dec -15° 08' 22""",Gravitational wave detection
+2025-04-27T12:41:00Z,gamma_ray_burst,3,LIGO/Virgo,"RA 05h 22m 40s Dec +19° 31' 21""",Duration: 310s
+2025-04-04T02:34:00Z,neutron_star_merger,3,Pierre Auger Observatory,N12E18,Electromagnetic counterpart observed
+2025-04-24T05:14:00Z,cosmic_ray,2,Pierre Auger Observatory,S12W22,Energy: 1.2×10^19 eV
+2025-04-28T11:50:00Z,cosmic_ray,5,Pierre Auger Observatory,"RA 05h 22m 40s Dec +19° 31' 21""",Energy: 8.7×10^18 eV
+2025-04-22T14:23:00Z,neutron_star_merger,4,Solar Dynamics Observatory,S35W64,Gravitational wave detection
+2025-04-02T15:09:00Z,asteroid_approach,1,Solar Dynamics Observatory,"RA 21h 15m 47s Dec -02° 36' 15""",0.9 lunar distances
+2025-04-10T12:37:00Z,solar_flare,1,Fermi Space Telescope,"RA 18h 42m 03s Dec +38° 12' 09""",Class X5.8 flare
+2025-04-10T22:15:00Z,cosmic_ray,5,SOHO,S35W64,Ultra-high energy: 3.2×10^19 eV
+2025-04-07T15:09:00Z,solar_flare,1,Solar Dynamics Observatory,"RA 12h 30m 45s Dec +23° 45' 12""",Class M5.7 flare
+2025-04-17T18:51:00Z,asteroid_approach,1,Swift Telescope,"RA 21h 15m 47s Dec -02° 36' 15""",1.2 lunar distances
+2025-04-22T14:44:00Z,asteroid_approach,1,Solar Dynamics Observatory,N12E18,1.2 lunar distances
+2025-04-11T02:03:00Z,gamma_ray_burst,2,DKIST,S35W64,Duration: 145s
+2025-04-09T18:10:00Z,neutron_star_merger,2,Pan-STARRS,N32W15,Electromagnetic counterpart observed
+2025-04-29T05:34:00Z,gamma_ray_burst,5,Swift Telescope,"RA 8h 12m 31s Dec -15° 08' 22""",Duration: 235s
+2025-04-14T15:08:00Z,gamma_ray_burst,3,ATLAS,S35W64,Duration: 85s
+2025-04-05T01:05:00Z,neutron_star_merger,1,Swift Telescope,N12E18,Electromagnetic counterpart observed
+2025-04-12T07:14:00Z,neutron_star_merger,3,DKIST,S12W22,Electromagnetic counterpart observed
+2025-04-30T15:35:00Z,neutron_star_merger,1,IceCube Neutrino Observatory,"RA 8h 12m 31s Dec -15° 08' 22""",Gravitational wave detection
+2025-04-17T21:28:00Z,gamma_ray_burst,4,SOHO,S35W64,Duration: 145s
+2025-04-27T05:31:00Z,cosmic_ray,1,ATLAS,N12E18,Energy: 8.7×10^18 eV
+2025-04-27T05:09:00Z,solar_flare,3,IceCube Neutrino Observatory,S35W64,Class X5.8 flare
+2025-04-16T19:53:00Z,neutron_star_merger,2,Swift Telescope,"RA 18h 42m 03s Dec +38° 12' 09""",Electromagnetic counterpart observed
+2025-04-22T20:44:00Z,cosmic_ray,1,Fermi Space Telescope,S12W22,Ultra-high energy: 3.2×10^19 eV
+2025-04-22T16:36:00Z,solar_flare,5,DKIST,N12E18,Class M5.7 flare
+2025-04-18T05:49:00Z,cosmic_ray,5,Pierre Auger Observatory,N32W15,Energy: 8.7×10^18 eV
+2025-04-04T20:07:00Z,asteroid_approach,3,ATLAS,"RA 05h 22m 40s Dec +19° 31' 21""",1.2 lunar distances
+2025-04-15T05:10:00Z,gamma_ray_burst,5,ATLAS,S12W22,Duration: 145s
+2025-04-18T20:25:00Z,gamma_ray_burst,5,Pierre Auger Observatory,"RA 8h 12m 31s Dec -15° 08' 22""",Duration: 235s
+2025-04-24T13:07:00Z,asteroid_approach,2,ATLAS,S35W64,1.2 lunar distances
+2025-04-10T06:34:00Z,cosmic_ray,5,Pierre Auger Observatory,"RA 12h 30m 45s Dec +23° 45' 12""",Ultra-high energy: 3.2×10^19 eV
+2025-04-13T20:48:00Z,cosmic_ray,5,SOHO,S12W22,Energy: 1.2×10^19 eV
+2025-04-13T19:12:00Z,solar_flare,3,ATLAS,N12E18,Class C3.4 flare
+2025-04-11T03:24:00Z,asteroid_approach,1,Solar Dynamics Observatory,"RA 8h 12m 31s Dec -15° 08' 22""",2.4 lunar distances
+2025-04-12T18:50:00Z,cosmic_ray,4,IceCube Neutrino Observatory,N32W15,Ultra-high energy: 3.2×10^19 eV
+2025-04-19T04:52:00Z,cosmic_ray,5,Pierre Auger Observatory,N12E18,Energy: 8.7×10^18 eV
+2025-04-19T05:09:00Z,cosmic_ray,2,Solar Dynamics Observatory,"RA 18h 42m 03s Dec +38° 12' 09""",Ultra-high energy: 3.2×10^19 eV
+2025-04-08T11:02:00Z,gamma_ray_burst,2,Pierre Auger Observatory,N12E18,Duration: 145s
+2025-04-22T07:34:00Z,asteroid_approach,2,Fermi Space Telescope,"RA 8h 12m 31s Dec -15° 08' 22""",1.2 lunar distances
+2025-04-23T09:44:00Z,neutron_star_merger,5,Solar Dynamics Observatory,"RA 18h 42m 03s Dec +38° 12' 09""",Gravitational wave detection
+2025-04-25T17:58:00Z,neutron_star_merger,3,Solar Dynamics Observatory,S35W64,Gravitational wave detection
+2025-04-19T06:51:00Z,gamma_ray_burst,1,LIGO/Virgo,N23W45,Duration: 310s
+2025-04-12T03:08:00Z,asteroid_approach,4,LIGO/Virgo,"RA 21h 15m 47s Dec -02° 36' 15""",2.4 lunar distances
+2025-04-29T18:03:00Z,asteroid_approach,5,LIGO/Virgo,"RA 21h 15m 47s Dec -02° 36' 15""",2.4 lunar distances
+2025-04-21T21:03:00Z,gamma_ray_burst,2,Swift Telescope,S12W22,Duration: 85s
+2025-04-05T22:46:00Z,asteroid_approach,3,DKIST,N32W15,0.9 lunar distances
+2025-04-29T10:57:00Z,cosmic_ray,5,Fermi Space Telescope,"RA 21h 15m 47s Dec -02° 36' 15""",Energy: 8.7×10^18 eV
+2025-04-10T02:38:00Z,asteroid_approach,4,Pierre Auger Observatory,"RA 12h 30m 45s Dec +23° 45' 12""",0.9 lunar distances
+2025-04-10T01:10:00Z,gamma_ray_burst,2,Pierre Auger Observatory,"RA 05h 22m 40s Dec +19° 31' 21""",Duration: 235s
+2025-04-20T13:49:00Z,solar_flare,5,ATLAS,S35W64,Class X2.1 flare
+2025-04-27T19:28:00Z,cosmic_ray,3,Fermi Space Telescope,"RA 12h 30m 45s Dec +23° 45' 12""",Energy: 8.7×10^18 eV
+2025-04-08T05:38:00Z,solar_flare,3,Solar Dynamics Observatory,"RA 05h 22m 40s Dec +19° 31' 21""",Class X5.8 flare
+2025-04-17T16:28:00Z,neutron_star_merger,4,IceCube Neutrino Observatory,S12W22,Gravitational wave detection
+2025-04-08T03:29:00Z,solar_flare,5,SOHO,"RA 18h 42m 03s Dec +38° 12' 09""",Class X5.8 flare
+2025-04-01T21:47:00Z,gamma_ray_burst,5,Swift Telescope,N32W15,Duration: 235s
+2025-04-22T22:58:00Z,solar_flare,5,Swift Telescope,"RA 21h 15m 47s Dec -02° 36' 15""",Class M5.7 flare
+2025-04-12T01:47:00Z,cosmic_ray,2,Swift Telescope,"RA 21h 15m 47s Dec -02° 36' 15""",Energy: 8.7×10^18 eV
+2025-04-21T18:36:00Z,solar_flare,1,Pan-STARRS,N23W45,Class X5.8 flare
+2025-04-19T06:22:00Z,gamma_ray_burst,2,ATLAS,"RA 8h 12m 31s Dec -15° 08' 22""",Duration: 310s
+2025-04-19T18:25:00Z,neutron_star_merger,2,Swift Telescope,"RA 21h 15m 47s Dec -02° 36' 15""",Gravitational wave detection
+2025-04-21T19:34:00Z,gamma_ray_burst,2,Fermi Space Telescope,"RA 8h 12m 31s Dec -15° 08' 22""",Duration: 85s
+2025-04-21T04:48:00Z,gamma_ray_burst,5,DKIST,S35W64,Duration: 235s
+2025-04-11T07:40:00Z,gamma_ray_burst,5,Pierre Auger Observatory,N23W45,Duration: 235s
+2025-04-30T10:52:00Z,cosmic_ray,5,SOHO,"RA 8h 12m 31s Dec -15° 08' 22""",Energy: 8.7×10^18 eV
+2025-04-14T05:52:00Z,neutron_star_merger,3,Fermi Space Telescope,"RA 8h 12m 31s Dec -15° 08' 22""",Electromagnetic counterpart observed
+2025-04-04T00:59:00Z,cosmic_ray,2,Pan-STARRS,"RA 21h 15m 47s Dec -02° 36' 15""",Energy: 8.7×10^18 eV
+2025-04-21T05:02:00Z,cosmic_ray,2,Swift Telescope,"RA 05h 22m 40s Dec +19° 31' 21""",Ultra-high energy: 3.2×10^19 eV
+2025-04-17T12:05:00Z,cosmic_ray,1,Pierre Auger Observatory,S12W22,Ultra-high energy: 3.2×10^19 eV
+2025-04-28T21:14:00Z,cosmic_ray,4,Fermi Space Telescope,"RA 12h 30m 45s Dec +23° 45' 12""",Energy: 8.7×10^18 eV
+2025-04-07T12:26:00Z,neutron_star_merger,2,Pan-STARRS,N32W15,Electromagnetic counterpart observed
+2025-04-08T15:39:00Z,neutron_star_merger,2,SOHO,N23W45,Gravitational wave detection
+2025-04-01T06:43:00Z,neutron_star_merger,5,LIGO/Virgo,S35W64,Electromagnetic counterpart observed
+2025-04-23T19:26:00Z,gamma_ray_burst,3,IceCube Neutrino Observatory,N12E18,Duration: 310s
+2025-04-06T02:25:00Z,neutron_star_merger,4,Pierre Auger Observatory,N32W15,Electromagnetic counterpart observed
+2025-04-08T18:31:00Z,gamma_ray_burst,1,Fermi Space Telescope,"RA 12h 30m 45s Dec +23° 45' 12""",Duration: 145s
+2025-04-23T19:26:00Z,neutron_star_merger,4,LIGO/Virgo,S12W22,Electromagnetic counterpart observed
+2025-04-20T13:23:00Z,asteroid_approach,5,SOHO,"RA 12h 30m 45s Dec +23° 45' 12""",0.9 lunar distances
+2025-04-11T12:45:00Z,solar_flare,4,Swift Telescope,"RA 05h 22m 40s Dec +19° 31' 21""",Class X2.1 flare
+2025-04-29T22:46:00Z,asteroid_approach,3,Pan-STARRS,S12W22,0.9 lunar distances
+2025-04-30T12:14:00Z,solar_flare,5,LIGO/Virgo,S35W64,Class C3.4 flare
+2025-04-24T11:30:00Z,solar_flare,3,IceCube Neutrino Observatory,"RA 21h 15m 47s Dec -02° 36' 15""",Class M5.7 flare
+2025-04-12T09:52:00Z,solar_flare,2,DKIST,"RA 21h 15m 47s Dec -02° 36' 15""",Class C3.4 flare
+2025-04-11T13:59:00Z,asteroid_approach,5,ATLAS,"RA 8h 12m 31s Dec -15° 08' 22""",1.2 lunar distances
+2025-04-24T20:35:00Z,gamma_ray_burst,2,Swift Telescope,"RA 05h 22m 40s Dec +19° 31' 21""",Duration: 310s
+2025-04-20T07:01:00Z,cosmic_ray,1,Fermi Space Telescope,S12W22,Energy: 8.7×10^18 eV
+2025-04-15T14:11:00Z,asteroid_approach,3,ATLAS,"RA 21h 15m 47s Dec -02° 36' 15""",0.9 lunar distances
+2025-04-20T10:08:00Z,asteroid_approach,4,Solar Dynamics Observatory,"RA 18h 42m 03s Dec +38° 12' 09""",1.2 lunar distances
+2025-04-14T20:55:00Z,neutron_star_merger,4,Swift Telescope,N23W45,Gravitational wave detection
+2025-04-06T06:42:00Z,asteroid_approach,3,Pierre Auger Observatory,"RA 12h 30m 45s Dec +23° 45' 12""",0.9 lunar distances
+2025-04-09T15:18:00Z,gamma_ray_burst,2,SOHO,"RA 21h 15m 47s Dec -02° 36' 15""",Duration: 85s
+2025-04-10T11:57:00Z,asteroid_approach,1,SOHO,"RA 8h 12m 31s Dec -15° 08' 22""",0.9 lunar distances
+2025-04-04T15:52:00Z,neutron_star_merger,1,ATLAS,N32W15,Electromagnetic counterpart observed
+2025-04-17T10:20:00Z,cosmic_ray,2,LIGO/Virgo,"RA 18h 42m 03s Dec +38° 12' 09""",Energy: 8.7×10^18 eV
+2025-04-28T07:23:00Z,cosmic_ray,5,SOHO,N12E18,Ultra-high energy: 3.2×10^19 eV
+2025-04-03T16:28:00Z,neutron_star_merger,5,ATLAS,N12E18,Gravitational wave detection
+2025-04-28T00:55:00Z,gamma_ray_burst,2,LIGO/Virgo,"RA 8h 12m 31s Dec -15° 08' 22""",Duration: 85s
+2025-04-25T06:32:00Z,neutron_star_merger,3,Fermi Space Telescope,S12W22,Gravitational wave detection
+2025-04-23T11:15:00Z,solar_flare,4,Pierre Auger Observatory,"RA 8h 12m 31s Dec -15° 08' 22""",Class X2.1 flare
+2025-04-24T07:50:00Z,gamma_ray_burst,2,IceCube Neutrino Observatory,"RA 18h 42m 03s Dec +38° 12' 09""",Duration: 235s
+2025-04-01T02:51:00Z,cosmic_ray,3,Swift Telescope,S12W22,Ultra-high energy: 3.2×10^19 eV
+2025-04-09T15:24:00Z,asteroid_approach,3,Pan-STARRS,N32W15,0.9 lunar distances
+2025-04-14T12:19:00Z,asteroid_approach,1,SOHO,S12W22,1.2 lunar distances
+2025-04-23T21:21:00Z,solar_flare,1,Fermi Space Telescope,"RA 12h 30m 45s Dec +23° 45' 12""",Class X5.8 flare
+2025-04-10T03:42:00Z,gamma_ray_burst,4,ATLAS,S35W64,Duration: 85s
+2025-04-16T12:38:00Z,neutron_star_merger,4,LIGO/Virgo,N12E18,Electromagnetic counterpart observed
+2025-04-03T07:20:00Z,neutron_star_merger,1,Pierre Auger Observatory,"RA 12h 30m 45s Dec +23° 45' 12""",Gravitational wave detection
+2025-04-01T17:39:00Z,neutron_star_merger,1,Fermi Space Telescope,S12W22,Electromagnetic counterpart observed
+2025-04-13T23:58:00Z,solar_flare,2,Fermi Space Telescope,S35W64,Class C3.4 flare
+2025-04-22T02:32:00Z,asteroid_approach,3,Solar Dynamics Observatory,N23W45,1.2 lunar distances
+2025-04-23T06:59:00Z,cosmic_ray,3,Pierre Auger Observatory,"RA 18h 42m 03s Dec +38° 12' 09""",Energy: 1.2×10^19 eV
+2025-04-17T18:11:00Z,neutron_star_merger,2,Pan-STARRS,"RA 8h 12m 31s Dec -15° 08' 22""",Gravitational wave detection
+2025-04-12T17:55:00Z,cosmic_ray,3,IceCube Neutrino Observatory,"RA 05h 22m 40s Dec +19° 31' 21""",Ultra-high energy: 3.2×10^19 eV
+2025-04-03T17:17:00Z,cosmic_ray,2,ATLAS,S35W64,Energy: 8.7×10^18 eV
+2025-04-17T03:49:00Z,asteroid_approach,1,LIGO/Virgo,"RA 12h 30m 45s Dec +23° 45' 12""",0.9 lunar distances
+2025-04-04T02:54:00Z,asteroid_approach,2,Swift Telescope,N12E18,0.9 lunar distances
+2025-04-28T11:01:00Z,cosmic_ray,1,Fermi Space Telescope,N32W15,Energy: 8.7×10^18 eV
+2025-04-11T07:15:00Z,gamma_ray_burst,3,IceCube Neutrino Observatory,"RA 18h 42m 03s Dec +38° 12' 09""",Duration: 310s
+2025-04-18T06:21:00Z,cosmic_ray,4,Pierre Auger Observatory,"RA 18h 42m 03s Dec +38° 12' 09""",Energy: 8.7×10^18 eV
+2025-04-26T19:07:00Z,neutron_star_merger,1,DKIST,"RA 05h 22m 40s Dec +19° 31' 21""",Gravitational wave detection
+2025-04-30T00:37:00Z,solar_flare,5,Fermi Space Telescope,S12W22,Class C3.4 flare
+2025-04-24T08:43:00Z,asteroid_approach,1,Pan-STARRS,"RA 12h 30m 45s Dec +23° 45' 12""",1.2 lunar distances
+2025-04-25T01:06:00Z,neutron_star_merger,3,DKIST,N23W45,Gravitational wave detection
+2025-04-18T13:13:00Z,neutron_star_merger,4,Swift Telescope,N12E18,Gravitational wave detection
+2025-04-07T16:26:00Z,gamma_ray_burst,2,IceCube Neutrino Observatory,"RA 05h 22m 40s Dec +19° 31' 21""",Duration: 85s
+2025-04-06T15:22:00Z,cosmic_ray,5,IceCube Neutrino Observatory,"RA 8h 12m 31s Dec -15° 08' 22""",Energy: 1.2×10^19 eV
+2025-04-02T06:43:00Z,neutron_star_merger,3,LIGO/Virgo,"RA 21h 15m 47s Dec -02° 36' 15""",Electromagnetic counterpart observed
+2025-04-02T21:44:00Z,neutron_star_merger,2,Pierre Auger Observatory,N32W15,Gravitational wave detection
+2025-04-30T13:54:00Z,cosmic_ray,2,SOHO,"RA 18h 42m 03s Dec +38° 12' 09""",Energy: 8.7×10^18 eV
+2025-04-15T12:45:00Z,cosmic_ray,4,DKIST,N12E18,Energy: 1.2×10^19 eV
+2025-04-05T21:09:00Z,neutron_star_merger,5,SOHO,"RA 05h 22m 40s Dec +19° 31' 21""",Electromagnetic counterpart observed
+2025-04-26T12:39:00Z,solar_flare,3,Swift Telescope,"RA 05h 22m 40s Dec +19° 31' 21""",Class X5.8 flare
+2025-04-30T15:18:00Z,gamma_ray_burst,2,Swift Telescope,S12W22,Duration: 235s
+2025-04-20T08:52:00Z,asteroid_approach,4,Swift Telescope,"RA 18h 42m 03s Dec +38° 12' 09""",0.9 lunar distances
+2025-04-06T03:02:00Z,gamma_ray_burst,5,Swift Telescope,"RA 8h 12m 31s Dec -15° 08' 22""",Duration: 145s
+2025-04-01T18:57:00Z,gamma_ray_burst,1,IceCube Neutrino Observatory,S35W64,Duration: 310s
+2025-04-24T11:23:00Z,asteroid_approach,2,Pan-STARRS,"RA 21h 15m 47s Dec -02° 36' 15""",2.4 lunar distances
+2025-04-21T15:25:00Z,asteroid_approach,5,SOHO,S35W64,0.9 lunar distances
+2025-04-12T08:29:00Z,solar_flare,3,Pierre Auger Observatory,N23W45,Class C3.4 flare
+2025-04-20T10:24:00Z,solar_flare,2,Swift Telescope,S35W64,Class M5.7 flare
+2025-04-22T06:41:00Z,neutron_star_merger,5,ATLAS,"RA 05h 22m 40s Dec +19° 31' 21""",Gravitational wave detection
+2025-04-21T05:56:00Z,solar_flare,1,DKIST,S35W64,Class M5.7 flare
+2025-04-04T00:34:00Z,neutron_star_merger,5,DKIST,"RA 05h 22m 40s Dec +19° 31' 21""",Electromagnetic counterpart observed
+2025-04-06T22:02:00Z,gamma_ray_burst,2,Pan-STARRS,N23W45,Duration: 235s
+2025-04-24T19:15:00Z,solar_flare,3,Pierre Auger Observatory,N12E18,Class C3.4 flare
+2025-04-05T01:30:00Z,gamma_ray_burst,1,LIGO/Virgo,N32W15,Duration: 310s
+2025-04-02T14:45:00Z,cosmic_ray,4,Swift Telescope,"RA 18h 42m 03s Dec +38° 12' 09""",Energy: 8.7×10^18 eV
+2025-04-06T19:44:00Z,solar_flare,1,Fermi Space Telescope,N32W15,Class C3.4 flare
+2025-04-23T10:36:00Z,solar_flare,1,Pierre Auger Observatory,N12E18,Class M5.7 flare
+2025-04-09T19:46:00Z,cosmic_ray,4,IceCube Neutrino Observatory,"RA 12h 30m 45s Dec +23° 45' 12""",Ultra-high energy: 3.2×10^19 eV
+2025-04-29T16:24:00Z,gamma_ray_burst,5,Solar Dynamics Observatory,N32W15,Duration: 145s
+2025-04-22T14:00:00Z,solar_flare,5,LIGO/Virgo,"RA 05h 22m 40s Dec +19° 31' 21""",Class C3.4 flare
+2025-04-17T17:10:00Z,solar_flare,5,Pierre Auger Observatory,"RA 8h 12m 31s Dec -15° 08' 22""",Class C3.4 flare
+2025-04-02T18:27:00Z,cosmic_ray,2,Swift Telescope,"RA 05h 22m 40s Dec +19° 31' 21""",Energy: 8.7×10^18 eV
+2025-04-08T12:26:00Z,neutron_star_merger,2,IceCube Neutrino Observatory,N12E18,Gravitational wave detection
+2025-04-04T07:07:00Z,gamma_ray_burst,1,DKIST,N23W45,Duration: 145s
+2025-04-27T05:03:00Z,neutron_star_merger,4,SOHO,N12E18,Gravitational wave detection
+2025-04-02T09:31:00Z,gamma_ray_burst,4,Swift Telescope,N12E18,Duration: 310s
+2025-04-21T13:02:00Z,cosmic_ray,2,Solar Dynamics Observatory,"RA 8h 12m 31s Dec -15° 08' 22""",Energy: 8.7×10^18 eV
+2025-04-18T13:06:00Z,neutron_star_merger,1,Swift Telescope,"RA 12h 30m 45s Dec +23° 45' 12""",Electromagnetic counterpart observed
+2025-04-03T16:13:00Z,gamma_ray_burst,5,SOHO,"RA 18h 42m 03s Dec +38° 12' 09""",Duration: 85s
+2025-04-06T21:05:00Z,gamma_ray_burst,1,ATLAS,"RA 12h 30m 45s Dec +23° 45' 12""",Duration: 235s
+2025-04-20T05:38:00Z,asteroid_approach,3,Pierre Auger Observatory,S12W22,1.2 lunar distances
+2025-04-14T20:38:00Z,cosmic_ray,5,IceCube Neutrino Observatory,"RA 05h 22m 40s Dec +19° 31' 21""",Energy: 1.2×10^19 eV
+2025-04-29T22:14:00Z,neutron_star_merger,3,LIGO/Virgo,N12E18,Gravitational wave detection
+2025-04-21T02:22:00Z,neutron_star_merger,3,DKIST,"RA 21h 15m 47s Dec -02° 36' 15""",Electromagnetic counterpart observed
+2025-04-05T09:51:00Z,solar_flare,5,SOHO,"RA 05h 22m 40s Dec +19° 31' 21""",Class M5.7 flare
+2025-04-04T10:38:00Z,solar_flare,2,Swift Telescope,N23W45,Class X5.8 flare
+2025-04-22T04:17:00Z,neutron_star_merger,4,Fermi Space Telescope,N32W15,Electromagnetic counterpart observed
+2025-04-14T12:24:00Z,asteroid_approach,3,LIGO/Virgo,"RA 21h 15m 47s Dec -02° 36' 15""",1.2 lunar distances
+2025-04-21T05:06:00Z,neutron_star_merger,2,LIGO/Virgo,N32W15,Gravitational wave detection
+2025-04-07T06:28:00Z,cosmic_ray,3,Pan-STARRS,S35W64,Energy: 1.2×10^19 eV
+2025-04-19T07:12:00Z,gamma_ray_burst,4,ATLAS,N12E18,Duration: 235s
+2025-04-06T07:31:00Z,cosmic_ray,1,DKIST,N23W45,Energy: 1.2×10^19 eV
+2025-04-19T17:00:00Z,neutron_star_merger,1,Fermi Space Telescope,S35W64,Electromagnetic counterpart observed
+2025-04-09T07:52:00Z,asteroid_approach,5,Pan-STARRS,N12E18,1.2 lunar distances
+2025-04-23T22:47:00Z,cosmic_ray,5,Swift Telescope,N12E18,Energy: 1.2×10^19 eV
+2025-04-24T06:11:00Z,cosmic_ray,3,Fermi Space Telescope,"RA 8h 12m 31s Dec -15° 08' 22""",Ultra-high energy: 3.2×10^19 eV
+2025-04-27T00:12:00Z,solar_flare,1,Solar Dynamics Observatory,"RA 12h 30m 45s Dec +23° 45' 12""",Class C3.4 flare
+2025-04-10T08:41:00Z,cosmic_ray,3,LIGO/Virgo,"RA 8h 12m 31s Dec -15° 08' 22""",Energy: 8.7×10^18 eV
+2025-04-13T23:53:00Z,asteroid_approach,5,Solar Dynamics Observatory,"RA 21h 15m 47s Dec -02° 36' 15""",2.4 lunar distances
+2025-04-12T18:06:00Z,solar_flare,4,Pan-STARRS,S35W64,Class X5.8 flare
+2025-04-24T08:20:00Z,asteroid_approach,4,DKIST,"RA 12h 30m 45s Dec +23° 45' 12""",1.2 lunar distances
+2025-04-09T18:33:00Z,solar_flare,2,LIGO/Virgo,"RA 21h 15m 47s Dec -02° 36' 15""",Class X5.8 flare
+2025-04-09T15:49:00Z,cosmic_ray,1,IceCube Neutrino Observatory,N23W45,Ultra-high energy: 3.2×10^19 eV
+2025-04-21T01:19:00Z,solar_flare,4,LIGO/Virgo,"RA 05h 22m 40s Dec +19° 31' 21""",Class C3.4 flare
+2025-04-08T02:41:00Z,solar_flare,3,Solar Dynamics Observatory,N12E18,Class X5.8 flare
+2025-04-14T16:38:00Z,cosmic_ray,3,DKIST,"RA 21h 15m 47s Dec -02° 36' 15""",Ultra-high energy: 3.2×10^19 eV
+2025-04-27T00:28:00Z,cosmic_ray,2,Pierre Auger Observatory,N12E18,Energy: 1.2×10^19 eV
+2025-04-25T18:57:00Z,solar_flare,3,DKIST,N23W45,Class X5.8 flare
+2025-04-09T22:02:00Z,gamma_ray_burst,4,LIGO/Virgo,"RA 21h 15m 47s Dec -02° 36' 15""",Duration: 235s
+2025-04-15T11:47:00Z,gamma_ray_burst,1,Solar Dynamics Observatory,"RA 21h 15m 47s Dec -02° 36' 15""",Duration: 85s
+2025-04-03T18:39:00Z,solar_flare,3,Swift Telescope,"RA 18h 42m 03s Dec +38° 12' 09""",Class M5.7 flare
+2025-04-19T11:29:00Z,solar_flare,4,SOHO,S12W22,Class X5.8 flare
+2025-04-09T00:36:00Z,neutron_star_merger,3,IceCube Neutrino Observatory,"RA 8h 12m 31s Dec -15° 08' 22""",Gravitational wave detection
+2025-04-01T17:11:00Z,solar_flare,4,DKIST,S12W22,Class X5.8 flare
+2025-04-30T03:38:00Z,solar_flare,4,Pierre Auger Observatory,N23W45,Class X5.8 flare
+2025-04-16T20:40:00Z,solar_flare,5,LIGO/Virgo,"RA 8h 12m 31s Dec -15° 08' 22""",Class M5.7 flare
+2025-04-07T13:05:00Z,gamma_ray_burst,2,IceCube Neutrino Observatory,"RA 12h 30m 45s Dec +23° 45' 12""",Duration: 235s
+2025-04-27T21:26:00Z,asteroid_approach,4,IceCube Neutrino Observatory,"RA 05h 22m 40s Dec +19° 31' 21""",1.2 lunar distances
+2025-04-08T22:37:00Z,solar_flare,1,IceCube Neutrino Observatory,"RA 21h 15m 47s Dec -02° 36' 15""",Class C3.4 flare
+2025-04-04T06:49:00Z,asteroid_approach,4,Swift Telescope,S12W22,2.4 lunar distances
+2025-04-10T23:45:00Z,asteroid_approach,3,LIGO/Virgo,N32W15,0.9 lunar distances
+2025-04-01T02:04:00Z,asteroid_approach,4,SOHO,"RA 05h 22m 40s Dec +19° 31' 21""",2.4 lunar distances
+2025-04-28T17:22:00Z,cosmic_ray,2,Solar Dynamics Observatory,N32W15,Energy: 1.2×10^19 eV
+2025-04-26T02:26:00Z,neutron_star_merger,5,Pan-STARRS,"RA 21h 15m 47s Dec -02° 36' 15""",Gravitational wave detection
+2025-04-03T06:32:00Z,gamma_ray_burst,5,Solar Dynamics Observatory,"RA 21h 15m 47s Dec -02° 36' 15""",Duration: 235s
+2025-04-24T11:03:00Z,solar_flare,1,Pierre Auger Observatory,N23W45,Class X2.1 flare
+2025-04-29T01:02:00Z,cosmic_ray,1,Pan-STARRS,S35W64,Ultra-high energy: 3.2×10^19 eV
+2025-04-02T20:20:00Z,cosmic_ray,1,Pan-STARRS,"RA 21h 15m 47s Dec -02° 36' 15""",Energy: 1.2×10^19 eV
+2025-04-30T04:09:00Z,asteroid_approach,3,Swift Telescope,N12E18,1.2 lunar distances
+2025-04-10T07:54:00Z,asteroid_approach,1,Swift Telescope,N23W45,0.9 lunar distances
+2025-04-23T16:55:00Z,cosmic_ray,4,Solar Dynamics Observatory,"RA 12h 30m 45s Dec +23° 45' 12""",Energy: 8.7×10^18 eV
+2025-04-25T11:17:00Z,gamma_ray_burst,1,ATLAS,"RA 21h 15m 47s Dec -02° 36' 15""",Duration: 235s
+2025-04-19T23:06:00Z,gamma_ray_burst,5,IceCube Neutrino Observatory,"RA 8h 12m 31s Dec -15° 08' 22""",Duration: 85s
+2025-04-11T05:33:00Z,cosmic_ray,5,LIGO/Virgo,"RA 05h 22m 40s Dec +19° 31' 21""",Energy: 8.7×10^18 eV
+2025-04-26T10:20:00Z,gamma_ray_burst,4,Pierre Auger Observatory,"RA 12h 30m 45s Dec +23° 45' 12""",Duration: 310s
+2025-04-27T19:18:00Z,cosmic_ray,3,Swift Telescope,"RA 21h 15m 47s Dec -02° 36' 15""",Energy: 8.7×10^18 eV
+2025-04-25T23:51:00Z,cosmic_ray,4,SOHO,N12E18,Energy: 1.2×10^19 eV
+2025-04-01T09:03:00Z,cosmic_ray,1,Pierre Auger Observatory,"RA 8h 12m 31s Dec -15° 08' 22""",Ultra-high energy: 3.2×10^19 eV
+2025-04-13T05:41:00Z,solar_flare,2,Pierre Auger Observatory,"RA 12h 30m 45s Dec +23° 45' 12""",Class M5.7 flare
+2025-04-17T04:42:00Z,asteroid_approach,5,Swift Telescope,"RA 18h 42m 03s Dec +38° 12' 09""",0.9 lunar distances
+2025-04-30T11:43:00Z,neutron_star_merger,4,Pierre Auger Observatory,S12W22,Gravitational wave detection
+2025-04-26T23:38:00Z,solar_flare,5,IceCube Neutrino Observatory,N23W45,Class X2.1 flare
+2025-04-01T20:50:00Z,asteroid_approach,5,Solar Dynamics Observatory,S12W22,0.9 lunar distances
+2025-04-27T10:14:00Z,solar_flare,2,DKIST,"RA 12h 30m 45s Dec +23° 45' 12""",Class M5.7 flare
+2025-04-26T04:11:00Z,cosmic_ray,2,IceCube Neutrino Observatory,"RA 12h 30m 45s Dec +23° 45' 12""",Energy: 1.2×10^19 eV
+2025-04-29T14:51:00Z,asteroid_approach,4,ATLAS,"RA 12h 30m 45s Dec +23° 45' 12""",0.9 lunar distances
+2025-04-29T23:33:00Z,solar_flare,1,Pierre Auger Observatory,"RA 21h 15m 47s Dec -02° 36' 15""",Class X5.8 flare
+2025-04-18T21:37:00Z,neutron_star_merger,2,Fermi Space Telescope,S35W64,Electromagnetic counterpart observed
+2025-04-25T10:57:00Z,asteroid_approach,2,SOHO,N32W15,1.2 lunar distances
+2025-04-18T23:30:00Z,solar_flare,5,ATLAS,N12E18,Class X2.1 flare
+2025-04-02T06:53:00Z,asteroid_approach,3,ATLAS,"RA 21h 15m 47s Dec -02° 36' 15""",0.9 lunar distances
+2025-04-20T04:16:00Z,solar_flare,2,SOHO,S12W22,Class C3.4 flare
+2025-04-27T16:14:00Z,neutron_star_merger,2,ATLAS,"RA 18h 42m 03s Dec +38° 12' 09""",Gravitational wave detection
+2025-04-20T22:22:00Z,cosmic_ray,5,Solar Dynamics Observatory,"RA 18h 42m 03s Dec +38° 12' 09""",Energy: 1.2×10^19 eV
+2025-04-30T23:52:00Z,cosmic_ray,4,Pan-STARRS,"RA 8h 12m 31s Dec -15° 08' 22""",Energy: 8.7×10^18 eV
+2025-04-26T17:02:00Z,cosmic_ray,1,Swift Telescope,"RA 8h 12m 31s Dec -15° 08' 22""",Ultra-high energy: 3.2×10^19 eV
+2025-04-18T17:34:00Z,neutron_star_merger,4,SOHO,S35W64,Gravitational wave detection
+2025-04-09T09:39:00Z,cosmic_ray,5,ATLAS,N32W15,Energy: 8.7×10^18 eV
+2025-04-30T16:28:00Z,cosmic_ray,1,Pan-STARRS,S35W64,Ultra-high energy: 3.2×10^19 eV
+2025-04-01T08:48:00Z,neutron_star_merger,2,DKIST,S35W64,Gravitational wave detection
+2025-04-17T11:59:00Z,solar_flare,5,Swift Telescope,"RA 8h 12m 31s Dec -15° 08' 22""",Class M5.7 flare
+2025-04-20T08:59:00Z,cosmic_ray,1,LIGO/Virgo,"RA 18h 42m 03s Dec +38° 12' 09""",Energy: 1.2×10^19 eV
+2025-04-03T07:27:00Z,solar_flare,3,Fermi Space Telescope,"RA 12h 30m 45s Dec +23° 45' 12""",Class C3.4 flare
+2025-04-15T06:00:00Z,neutron_star_merger,2,Swift Telescope,"RA 8h 12m 31s Dec -15° 08' 22""",Gravitational wave detection
+2025-04-30T18:36:00Z,cosmic_ray,5,IceCube Neutrino Observatory,"RA 12h 30m 45s Dec +23° 45' 12""",Energy: 8.7×10^18 eV
+2025-04-09T22:00:00Z,cosmic_ray,4,LIGO/Virgo,S35W64,Energy: 1.2×10^19 eV
+2025-04-10T23:35:00Z,neutron_star_merger,4,IceCube Neutrino Observatory,N12E18,Gravitational wave detection
+2025-04-28T10:02:00Z,cosmic_ray,2,Pan-STARRS,"RA 21h 15m 47s Dec -02° 36' 15""",Ultra-high energy: 3.2×10^19 eV
+2025-04-23T20:40:00Z,cosmic_ray,5,Solar Dynamics Observatory,N32W15,Ultra-high energy: 3.2×10^19 eV
+2025-04-13T04:35:00Z,cosmic_ray,5,ATLAS,S35W64,Energy: 8.7×10^18 eV
+2025-04-03T06:13:00Z,solar_flare,2,IceCube Neutrino Observatory,N23W45,Class X5.8 flare
+2025-04-21T05:56:00Z,cosmic_ray,5,SOHO,"RA 21h 15m 47s Dec -02° 36' 15""",Energy: 8.7×10^18 eV
+2025-04-14T13:53:00Z,neutron_star_merger,3,Pan-STARRS,S12W22,Electromagnetic counterpart observed
+2025-04-30T23:39:00Z,gamma_ray_burst,3,Fermi Space Telescope,"RA 18h 42m 03s Dec +38° 12' 09""",Duration: 310s
+2025-04-18T07:11:00Z,cosmic_ray,2,Pierre Auger Observatory,"RA 8h 12m 31s Dec -15° 08' 22""",Energy: 1.2×10^19 eV
+2025-04-10T21:35:00Z,neutron_star_merger,5,Pan-STARRS,"RA 18h 42m 03s Dec +38° 12' 09""",Gravitational wave detection
+2025-04-10T05:40:00Z,solar_flare,5,Pan-STARRS,"RA 18h 42m 03s Dec +38° 12' 09""",Class M5.7 flare
+2025-04-04T16:42:00Z,asteroid_approach,3,Fermi Space Telescope,N23W45,2.4 lunar distances
+2025-04-25T05:22:00Z,asteroid_approach,2,IceCube Neutrino Observatory,"RA 21h 15m 47s Dec -02° 36' 15""",2.4 lunar distances
+2025-04-15T12:13:00Z,gamma_ray_burst,3,Swift Telescope,S12W22,Duration: 85s
+2025-04-28T12:58:00Z,cosmic_ray,1,SOHO,"RA 8h 12m 31s Dec -15° 08' 22""",Energy: 1.2×10^19 eV
+2025-04-19T19:11:00Z,solar_flare,4,Pan-STARRS,"RA 18h 42m 03s Dec +38° 12' 09""",Class X2.1 flare
+2025-04-01T17:07:00Z,solar_flare,4,Fermi Space Telescope,S12W22,Class X5.8 flare
+2025-04-15T07:07:00Z,asteroid_approach,1,Fermi Space Telescope,S12W22,2.4 lunar distances
+2025-04-04T06:13:00Z,asteroid_approach,5,IceCube Neutrino Observatory,N23W45,2.4 lunar distances
+2025-04-15T07:40:00Z,gamma_ray_burst,3,DKIST,"RA 8h 12m 31s Dec -15° 08' 22""",Duration: 85s
+2025-04-27T08:52:00Z,solar_flare,1,ATLAS,"RA 21h 15m 47s Dec -02° 36' 15""",Class C3.4 flare
+2025-04-30T01:23:00Z,solar_flare,1,Swift Telescope,"RA 21h 15m 47s Dec -02° 36' 15""",Class X5.8 flare
+2025-04-02T10:04:00Z,asteroid_approach,2,Pierre Auger Observatory,"RA 12h 30m 45s Dec +23° 45' 12""",0.9 lunar distances
+2025-04-14T20:41:00Z,neutron_star_merger,1,DKIST,"RA 12h 30m 45s Dec +23° 45' 12""",Electromagnetic counterpart observed
+2025-04-21T19:06:00Z,solar_flare,2,ATLAS,S12W22,Class X2.1 flare
+2025-04-06T13:55:00Z,cosmic_ray,2,LIGO/Virgo,"RA 8h 12m 31s Dec -15° 08' 22""",Energy: 8.7×10^18 eV
+2025-04-25T05:18:00Z,neutron_star_merger,5,IceCube Neutrino Observatory,"RA 05h 22m 40s Dec +19° 31' 21""",Electromagnetic counterpart observed
+2025-04-12T02:07:00Z,cosmic_ray,2,ATLAS,"RA 05h 22m 40s Dec +19° 31' 21""",Energy: 1.2×10^19 eV
+2025-04-25T00:30:00Z,cosmic_ray,4,Fermi Space Telescope,S12W22,Energy: 8.7×10^18 eV
+2025-04-14T06:06:00Z,asteroid_approach,3,Pan-STARRS,N32W15,1.2 lunar distances
+2025-04-11T21:30:00Z,cosmic_ray,2,ATLAS,"RA 18h 42m 03s Dec +38° 12' 09""",Energy: 1.2×10^19 eV
+2025-04-23T17:42:00Z,gamma_ray_burst,3,DKIST,N32W15,Duration: 235s
+2025-04-29T12:46:00Z,cosmic_ray,1,Solar Dynamics Observatory,S12W22,Energy: 8.7×10^18 eV
+2025-04-26T04:47:00Z,solar_flare,3,ATLAS,"RA 21h 15m 47s Dec -02° 36' 15""",Class X5.8 flare
+2025-04-18T13:39:00Z,gamma_ray_burst,2,DKIST,"RA 18h 42m 03s Dec +38° 12' 09""",Duration: 310s
+2025-04-24T11:19:00Z,neutron_star_merger,2,Fermi Space Telescope,S12W22,Electromagnetic counterpart observed
+2025-04-21T10:07:00Z,asteroid_approach,5,Fermi Space Telescope,N23W45,0.9 lunar distances
+2025-04-25T03:57:00Z,asteroid_approach,5,LIGO/Virgo,N32W15,2.4 lunar distances
+2025-04-23T10:58:00Z,asteroid_approach,4,Pan-STARRS,S12W22,1.2 lunar distances
+2025-04-17T09:51:00Z,neutron_star_merger,4,Pan-STARRS,N23W45,Gravitational wave detection
+2025-04-06T08:38:00Z,cosmic_ray,1,Swift Telescope,N23W45,Energy: 1.2×10^19 eV
+2025-04-27T05:51:00Z,solar_flare,1,Pan-STARRS,"RA 18h 42m 03s Dec +38° 12' 09""",Class C3.4 flare
+2025-04-18T22:50:00Z,asteroid_approach,4,Pierre Auger Observatory,"RA 18h 42m 03s Dec +38° 12' 09""",2.4 lunar distances
+2025-04-11T07:04:00Z,solar_flare,1,Solar Dynamics Observatory,"RA 12h 30m 45s Dec +23° 45' 12""",Class X5.8 flare
+2025-04-19T16:06:00Z,neutron_star_merger,2,Pierre Auger Observatory,N23W45,Gravitational wave detection
+2025-04-18T12:07:00Z,cosmic_ray,4,ATLAS,S12W22,Energy: 1.2×10^19 eV
+2025-04-29T23:26:00Z,neutron_star_merger,2,SOHO,"RA 05h 22m 40s Dec +19° 31' 21""",Gravitational wave detection
+2025-04-23T20:21:00Z,asteroid_approach,5,SOHO,"RA 8h 12m 31s Dec -15° 08' 22""",0.9 lunar distances
+2025-04-22T07:18:00Z,neutron_star_merger,1,SOHO,"RA 05h 22m 40s Dec +19° 31' 21""",Electromagnetic counterpart observed
+2025-04-12T11:06:00Z,solar_flare,2,Fermi Space Telescope,N12E18,Class X2.1 flare
+2025-04-12T02:50:00Z,cosmic_ray,2,Pierre Auger Observatory,"RA 8h 12m 31s Dec -15° 08' 22""",Energy: 8.7×10^18 eV
+2025-04-24T20:57:00Z,gamma_ray_burst,1,Pan-STARRS,"RA 21h 15m 47s Dec -02° 36' 15""",Duration: 310s
+2025-04-14T18:45:00Z,neutron_star_merger,4,Solar Dynamics Observatory,S12W22,Electromagnetic counterpart observed
+2025-04-01T12:22:00Z,gamma_ray_burst,3,Swift Telescope,N32W15,Duration: 145s
+2025-04-28T16:38:00Z,cosmic_ray,1,Pan-STARRS,"RA 21h 15m 47s Dec -02° 36' 15""",Energy: 1.2×10^19 eV
+2025-04-27T10:44:00Z,neutron_star_merger,2,Pan-STARRS,"RA 8h 12m 31s Dec -15° 08' 22""",Electromagnetic counterpart observed
+2025-04-26T13:58:00Z,neutron_star_merger,1,Fermi Space Telescope,"RA 05h 22m 40s Dec +19° 31' 21""",Gravitational wave detection
+2025-04-17T00:59:00Z,solar_flare,2,IceCube Neutrino Observatory,"RA 05h 22m 40s Dec +19° 31' 21""",Class X5.8 flare
+2025-04-29T14:15:00Z,neutron_star_merger,4,LIGO/Virgo,"RA 12h 30m 45s Dec +23° 45' 12""",Gravitational wave detection
+2025-04-17T17:34:00Z,solar_flare,5,LIGO/Virgo,"RA 05h 22m 40s Dec +19° 31' 21""",Class M5.7 flare
+2025-04-19T15:25:00Z,solar_flare,4,SOHO,S35W64,Class X5.8 flare
+2025-04-21T01:06:00Z,asteroid_approach,1,Swift Telescope,S12W22,0.9 lunar distances
+2025-04-19T06:15:00Z,neutron_star_merger,5,Swift Telescope,"RA 8h 12m 31s Dec -15° 08' 22""",Gravitational wave detection
+2025-04-05T09:14:00Z,neutron_star_merger,3,Pierre Auger Observatory,S35W64,Gravitational wave detection
+2025-04-24T21:27:00Z,neutron_star_merger,2,IceCube Neutrino Observatory,"RA 21h 15m 47s Dec -02° 36' 15""",Electromagnetic counterpart observed
+2025-04-08T02:04:00Z,solar_flare,4,Swift Telescope,S35W64,Class X5.8 flare
+2025-04-08T06:51:00Z,solar_flare,1,LIGO/Virgo,"RA 18h 42m 03s Dec +38° 12' 09""",Class X5.8 flare
+2025-04-11T14:01:00Z,asteroid_approach,3,Pierre Auger Observatory,S12W22,2.4 lunar distances
+2025-04-23T12:48:00Z,cosmic_ray,3,Solar Dynamics Observatory,"RA 05h 22m 40s Dec +19° 31' 21""",Ultra-high energy: 3.2×10^19 eV
+2025-04-09T06:41:00Z,cosmic_ray,2,DKIST,"RA 8h 12m 31s Dec -15° 08' 22""",Ultra-high energy: 3.2×10^19 eV
+2025-04-28T07:37:00Z,solar_flare,5,Pan-STARRS,"RA 21h 15m 47s Dec -02° 36' 15""",Class X5.8 flare
+2025-04-21T02:43:00Z,neutron_star_merger,1,DKIST,"RA 21h 15m 47s Dec -02° 36' 15""",Gravitational wave detection
+2025-04-21T17:02:00Z,gamma_ray_burst,2,DKIST,N12E18,Duration: 85s
+2025-04-30T14:10:00Z,neutron_star_merger,5,Pan-STARRS,"RA 21h 15m 47s Dec -02° 36' 15""",Gravitational wave detection
+2025-04-09T03:27:00Z,cosmic_ray,3,IceCube Neutrino Observatory,N32W15,Ultra-high energy: 3.2×10^19 eV
+2025-04-30T06:34:00Z,neutron_star_merger,4,Swift Telescope,"RA 8h 12m 31s Dec -15° 08' 22""",Electromagnetic counterpart observed
+2025-04-05T12:29:00Z,asteroid_approach,3,Pan-STARRS,N12E18,1.2 lunar distances
+2025-04-22T05:27:00Z,neutron_star_merger,3,Pierre Auger Observatory,N12E18,Gravitational wave detection
+2025-04-06T04:20:00Z,cosmic_ray,5,Swift Telescope,"RA 12h 30m 45s Dec +23° 45' 12""",Ultra-high energy: 3.2×10^19 eV
+2025-04-25T13:45:00Z,gamma_ray_burst,4,Fermi Space Telescope,"RA 21h 15m 47s Dec -02° 36' 15""",Duration: 235s
+2025-04-30T20:20:00Z,asteroid_approach,5,Fermi Space Telescope,"RA 18h 42m 03s Dec +38° 12' 09""",0.9 lunar distances
+2025-04-09T03:43:00Z,solar_flare,1,SOHO,"RA 12h 30m 45s Dec +23° 45' 12""",Class X2.1 flare
+2025-04-01T11:26:00Z,neutron_star_merger,4,Swift Telescope,"RA 8h 12m 31s Dec -15° 08' 22""",Electromagnetic counterpart observed
+2025-04-23T21:36:00Z,neutron_star_merger,4,Fermi Space Telescope,"RA 18h 42m 03s Dec +38° 12' 09""",Gravitational wave detection
+2025-04-27T03:16:00Z,solar_flare,2,Swift Telescope,N32W15,Class M5.7 flare
+2025-04-14T18:34:00Z,gamma_ray_burst,4,DKIST,"RA 18h 42m 03s Dec +38° 12' 09""",Duration: 310s
+2025-04-10T16:17:00Z,cosmic_ray,2,Pierre Auger Observatory,S35W64,Energy: 1.2×10^19 eV
+2025-04-04T06:19:00Z,neutron_star_merger,2,Fermi Space Telescope,"RA 18h 42m 03s Dec +38° 12' 09""",Gravitational wave detection
+2025-04-29T08:26:00Z,cosmic_ray,5,ATLAS,N32W15,Energy: 1.2×10^19 eV
+2025-04-02T13:53:00Z,asteroid_approach,1,IceCube Neutrino Observatory,"RA 18h 42m 03s Dec +38° 12' 09""",1.2 lunar distances
+2025-04-06T20:14:00Z,cosmic_ray,5,Pan-STARRS,"RA 05h 22m 40s Dec +19° 31' 21""",Ultra-high energy: 3.2×10^19 eV
+2025-04-25T12:40:00Z,asteroid_approach,1,DKIST,S35W64,0.9 lunar distances
+2025-04-18T13:58:00Z,neutron_star_merger,4,IceCube Neutrino Observatory,"RA 12h 30m 45s Dec +23° 45' 12""",Gravitational wave detection
+2025-04-24T00:17:00Z,neutron_star_merger,4,SOHO,"RA 8h 12m 31s Dec -15° 08' 22""",Electromagnetic counterpart observed
+2025-04-30T11:04:00Z,solar_flare,5,ATLAS,"RA 21h 15m 47s Dec -02° 36' 15""",Class C3.4 flare
+2025-04-01T14:11:00Z,neutron_star_merger,5,LIGO/Virgo,"RA 8h 12m 31s Dec -15° 08' 22""",Electromagnetic counterpart observed
+2025-04-07T06:53:00Z,neutron_star_merger,3,Pierre Auger Observatory,S35W64,Gravitational wave detection
+2025-04-04T18:25:00Z,cosmic_ray,5,LIGO/Virgo,"RA 05h 22m 40s Dec +19° 31' 21""",Energy: 1.2×10^19 eV
+2025-04-28T22:30:00Z,gamma_ray_burst,1,DKIST,N12E18,Duration: 310s
+2025-04-19T10:38:00Z,solar_flare,5,Solar Dynamics Observatory,S35W64,Class X2.1 flare
+2025-04-11T06:57:00Z,cosmic_ray,2,SOHO,S12W22,Ultra-high energy: 3.2×10^19 eV
+2025-04-21T23:47:00Z,cosmic_ray,5,Pierre Auger Observatory,S12W22,Energy: 1.2×10^19 eV
+2025-04-17T03:50:00Z,asteroid_approach,2,Pan-STARRS,"RA 12h 30m 45s Dec +23° 45' 12""",0.9 lunar distances
+2025-04-23T23:43:00Z,gamma_ray_burst,3,Solar Dynamics Observatory,"RA 8h 12m 31s Dec -15° 08' 22""",Duration: 235s
+2025-04-28T17:52:00Z,asteroid_approach,4,ATLAS,S35W64,0.9 lunar distances
+2025-04-05T16:27:00Z,solar_flare,1,DKIST,N32W15,Class X5.8 flare
+2025-04-13T18:58:00Z,neutron_star_merger,1,IceCube Neutrino Observatory,"RA 21h 15m 47s Dec -02° 36' 15""",Gravitational wave detection
+2025-04-06T09:47:00Z,gamma_ray_burst,1,SOHO,N23W45,Duration: 310s
+2025-04-21T04:06:00Z,neutron_star_merger,4,Pan-STARRS,"RA 05h 22m 40s Dec +19° 31' 21""",Electromagnetic counterpart observed
+2025-04-11T02:23:00Z,cosmic_ray,5,Pan-STARRS,N12E18,Energy: 1.2×10^19 eV
+2025-04-11T07:32:00Z,solar_flare,5,IceCube Neutrino Observatory,S12W22,Class X5.8 flare
+2025-04-06T12:20:00Z,gamma_ray_burst,1,SOHO,N32W15,Duration: 235s
+2025-04-13T23:25:00Z,cosmic_ray,1,Solar Dynamics Observatory,"RA 21h 15m 47s Dec -02° 36' 15""",Energy: 1.2×10^19 eV
+2025-04-17T09:54:00Z,neutron_star_merger,4,DKIST,"RA 05h 22m 40s Dec +19° 31' 21""",Electromagnetic counterpart observed
+2025-04-09T10:32:00Z,solar_flare,2,SOHO,"RA 21h 15m 47s Dec -02° 36' 15""",Class X5.8 flare
+2025-04-17T19:00:00Z,neutron_star_merger,5,Fermi Space Telescope,"RA 05h 22m 40s Dec +19° 31' 21""",Electromagnetic counterpart observed
+2025-04-14T07:08:00Z,asteroid_approach,5,SOHO,N32W15,2.4 lunar distances
+2025-04-25T03:08:00Z,neutron_star_merger,5,IceCube Neutrino Observatory,"RA 8h 12m 31s Dec -15° 08' 22""",Electromagnetic counterpart observed
+2025-04-03T04:51:00Z,cosmic_ray,5,IceCube Neutrino Observatory,N32W15,Energy: 1.2×10^19 eV
+2025-04-14T17:56:00Z,solar_flare,2,Pierre Auger Observatory,"RA 18h 42m 03s Dec +38° 12' 09""",Class C3.4 flare
+2025-04-28T23:04:00Z,asteroid_approach,3,Pan-STARRS,S35W64,2.4 lunar distances
+2025-04-22T15:23:00Z,asteroid_approach,1,Pierre Auger Observatory,"RA 05h 22m 40s Dec +19° 31' 21""",1.2 lunar distances
+2025-04-05T10:17:00Z,asteroid_approach,1,ATLAS,N32W15,0.9 lunar distances
+2025-04-27T13:43:00Z,asteroid_approach,4,Pierre Auger Observatory,N32W15,2.4 lunar distances
+2025-04-19T17:05:00Z,neutron_star_merger,5,IceCube Neutrino Observatory,S35W64,Electromagnetic counterpart observed
+2025-04-06T21:45:00Z,solar_flare,4,DKIST,"RA 8h 12m 31s Dec -15° 08' 22""",Class C3.4 flare
+2025-04-29T15:17:00Z,neutron_star_merger,2,IceCube Neutrino Observatory,N12E18,Electromagnetic counterpart observed
+2025-04-18T15:22:00Z,solar_flare,2,Swift Telescope,"RA 18h 42m 03s Dec +38° 12' 09""",Class X5.8 flare
+2025-04-28T05:23:00Z,cosmic_ray,2,Swift Telescope,S35W64,Energy: 8.7×10^18 eV
+2025-04-06T14:33:00Z,gamma_ray_burst,1,Pierre Auger Observatory,N12E18,Duration: 85s
+2025-04-20T02:06:00Z,gamma_ray_burst,1,Swift Telescope,S12W22,Duration: 145s
+2025-04-25T22:23:00Z,cosmic_ray,4,Solar Dynamics Observatory,"RA 12h 30m 45s Dec +23° 45' 12""",Energy: 8.7×10^18 eV
+2025-04-04T04:18:00Z,gamma_ray_burst,1,IceCube Neutrino Observatory,"RA 18h 42m 03s Dec +38° 12' 09""",Duration: 85s
+2025-04-09T01:31:00Z,asteroid_approach,5,LIGO/Virgo,N23W45,1.2 lunar distances
+2025-04-12T11:43:00Z,neutron_star_merger,2,ATLAS,N12E18,Electromagnetic counterpart observed
+2025-04-23T01:32:00Z,gamma_ray_burst,2,Swift Telescope,"RA 21h 15m 47s Dec -02° 36' 15""",Duration: 85s
+2025-04-14T05:28:00Z,neutron_star_merger,3,Swift Telescope,N32W15,Gravitational wave detection
+2025-04-15T00:33:00Z,neutron_star_merger,4,DKIST,N12E18,Gravitational wave detection
+2025-04-02T05:06:00Z,neutron_star_merger,3,Pierre Auger Observatory,"RA 18h 42m 03s Dec +38° 12' 09""",Gravitational wave detection
+2025-04-14T20:30:00Z,solar_flare,2,IceCube Neutrino Observatory,"RA 05h 22m 40s Dec +19° 31' 21""",Class C3.4 flare
+2025-04-10T21:47:00Z,gamma_ray_burst,3,SOHO,S35W64,Duration: 85s
+2025-04-04T15:58:00Z,solar_flare,4,ATLAS,"RA 21h 15m 47s Dec -02° 36' 15""",Class X2.1 flare
+2025-04-27T07:45:00Z,neutron_star_merger,3,DKIST,S12W22,Electromagnetic counterpart observed
+2025-04-16T12:16:00Z,asteroid_approach,3,IceCube Neutrino Observatory,"RA 05h 22m 40s Dec +19° 31' 21""",2.4 lunar distances
+2025-04-11T17:00:00Z,gamma_ray_burst,1,Swift Telescope,"RA 18h 42m 03s Dec +38° 12' 09""",Duration: 145s
+2025-04-11T09:39:00Z,gamma_ray_burst,3,SOHO,"RA 12h 30m 45s Dec +23° 45' 12""",Duration: 235s
+2025-04-16T05:13:00Z,solar_flare,1,Fermi Space Telescope,N23W45,Class X5.8 flare
+2025-04-02T12:49:00Z,solar_flare,5,Swift Telescope,S12W22,Class M5.7 flare
+2025-04-07T01:58:00Z,solar_flare,4,Fermi Space Telescope,S12W22,Class M5.7 flare
+2025-04-25T08:14:00Z,neutron_star_merger,3,Swift Telescope,N23W45,Gravitational wave detection
+2025-04-21T02:44:00Z,cosmic_ray,2,Pan-STARRS,S12W22,Energy: 1.2×10^19 eV
+2025-04-01T17:09:00Z,gamma_ray_burst,1,LIGO/Virgo,N32W15,Duration: 85s
+2025-04-16T01:23:00Z,cosmic_ray,5,Swift Telescope,"RA 8h 12m 31s Dec -15° 08' 22""",Energy: 8.7×10^18 eV
+2025-04-04T11:58:00Z,gamma_ray_burst,4,Fermi Space Telescope,N23W45,Duration: 85s
+2025-04-02T00:05:00Z,gamma_ray_burst,1,Pierre Auger Observatory,S35W64,Duration: 85s
+2025-04-27T18:49:00Z,neutron_star_merger,5,Pierre Auger Observatory,N23W45,Electromagnetic counterpart observed
+2025-04-07T19:07:00Z,neutron_star_merger,4,Pan-STARRS,"RA 18h 42m 03s Dec +38° 12' 09""",Gravitational wave detection
+2025-04-18T12:35:00Z,neutron_star_merger,3,Pierre Auger Observatory,N23W45,Gravitational wave detection
+2025-04-25T15:38:00Z,cosmic_ray,1,Pan-STARRS,"RA 05h 22m 40s Dec +19° 31' 21""",Energy: 8.7×10^18 eV
+2025-04-24T01:33:00Z,neutron_star_merger,5,Pan-STARRS,"RA 8h 12m 31s Dec -15° 08' 22""",Electromagnetic counterpart observed
+2025-04-21T14:14:00Z,asteroid_approach,1,Fermi Space Telescope,N23W45,2.4 lunar distances
+2025-04-17T08:51:00Z,neutron_star_merger,5,Pan-STARRS,"RA 05h 22m 40s Dec +19° 31' 21""",Electromagnetic counterpart observed
+2025-04-01T16:08:00Z,asteroid_approach,4,SOHO,"RA 18h 42m 03s Dec +38° 12' 09""",0.9 lunar distances

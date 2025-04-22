@@ -55,9 +55,10 @@ const StyledNavItemLink = styled.a`
 const NavItemLink = ({ svgPaths, linkText }) => {
   const navigate = useNavigate();
   const handleClick = (linkText) => {
-    if (linkText === "Simulator") navigate("/");
-    if (linkText === "Nasa") navigate("/nasa");
+    if (linkText === "Nasa") navigate("/");
+    if (linkText === "Cloud") navigate("/cloud");
     if (linkText === "Scraper") navigate("/scraper");
+    if (linkText === "CSV") navigate("/uploads");
   };
 
 

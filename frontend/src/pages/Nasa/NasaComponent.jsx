@@ -25,7 +25,7 @@ const NasaComponent = () => {
 
   return (
     <div>
-      <StyledHeader>Near Earth Objects Dashboard</StyledHeader>
+      <StyledHeader>Cloud Based Dashboard</StyledHeader>
       <div>
         <NasaChart />
       </div>

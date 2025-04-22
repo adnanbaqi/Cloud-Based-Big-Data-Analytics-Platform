@@ -1,13 +1,10 @@
-import * as dotenv from "dotenv";
-dotenv.config();
-import { KafkaHandler } from "./kafka-handler";
-import { ingestCatalogToRedis, getStarObjectByKey } from "./redis-data-handler";
-import { Star } from "./starInterface";
-
-const MESSAGES_PER_MIN = 20;
-const MILISECONDS_IN_MIN = 60000;
-const DELAY = MILISECONDS_IN_MIN / MESSAGES_PER_MIN;
-let numberOfStars = 0;
+interface Star {
+  RA: string;
+  DEC: string;
+  "RA PM": string;
+  "DEC PM": string;
+  "Title HD": string;
+}
 
 interface RALocationUnits {
   ra_val: string;
@@ -40,33 +37,13 @@ enum EventSource {
   ELT = "European Extremely Large Telescope",
 }
 
-const getRandomEventSourceEnumValue = () => {
-  const eventSources = Object.keys(EventSource);
-  const randomIndex = Math.floor(Math.random() * eventSources.length);
-  const randomEnumValue = eventSources[randomIndex];
-  return randomEnumValue;
+const getRandomEnumValue = <T extends object>(enumObj: T): string => {
+  const values = Object.values(enumObj);
+  return values[Math.floor(Math.random() * values.length)] as string;
 };
 
-const getRandomEventTypeEnumValue = () => {
-  const eventSources = Object.keys(EventType);
-  const randomIndex = Math.floor(Math.random() * eventSources.length);
-  const randomEnumValue = eventSources[randomIndex];
-  return randomEnumValue;
-};
-
-const getRandomNumberByMaxVal = (maxVal: number) => {
-  return Math.floor(Math.random() * maxVal);
-};
-
-const generateValidDEC = () => {
-  const minDEC = -90;
-  const maxDEC = 90;
-
-  // Generate a random number between -90 and 90 (inclusive)
-  const randomDEC = Math.floor(Math.random() * (maxDEC - minDEC + 1)) + minDEC;
-
-  return randomDEC;
-};
+const getRandomNumber = (maxVal: number): number =>
+  Math.floor(Math.random() * maxVal);
 
 class CosmicEvent {
   eventTS: number;
@@ -78,74 +55,69 @@ class CosmicEvent {
   urgency: number;
 
   constructor(urgency: number, starData: Star) {
-    const { "RA PM": ra_pm, "DEC PM": dec_pm, DEC, RA , "Title HD": title} = starData;
-    this.ra = {
-      ra_pm,
-      ra_val: RA,
-    };
-    this.dec = {
-      dec_pm,
-      dec_val: DEC,
-    };
-    this.eventType = getRandomEventTypeEnumValue();
-    this.eventSource = getRandomEventSourceEnumValue();
+    const { "RA PM": ra_pm, "DEC PM": dec_pm, DEC, RA, "Title HD": title } = starData;
+    this.ra = { ra_pm, ra_val: RA };
+    this.dec = { dec_pm, dec_val: DEC };
+    this.eventType = getRandomEnumValue(EventType);
+    this.eventSource = getRandomEnumValue(EventSource);
     this.urgency = urgency;
-    this.eventTS = new Date().getTime();
-    this.title = title
+    this.eventTS = Date.now();
+    this.title = title;
   }
 }
 
 const sleep = (ms: number) => new Promise((r) => setTimeout(r, ms));
 
+const MESSAGES_PER_MIN = 20;
+const DELAY = 60000 / MESSAGES_PER_MIN;
+
+// ----- MOCKED ElasticSearch & GCP Star Data -----
+const mockElasticData: Star[] = [
+  { RA: "13.45", DEC: "-45.6", "RA PM": "0.1", "DEC PM": "0.05", "Title HD": "HD 12345" },
+  { RA: "122.22", DEC: "5.33", "RA PM": "0.2", "DEC PM": "0.1", "Title HD": "HD 45678" },
+];
+
+const mockGCPData: Star[] = [
+  { RA: "203.3", DEC: "-20.5", "RA PM": "0.3", "DEC PM": "0.15", "Title HD": "HD 98765" },
+  { RA: "310.1", DEC: "12.0", "RA PM": "0.25", "DEC PM": "0.2", "Title HD": "HD 11223" },
+];
+
+// ----- MOCK Kafka -----
+const mockKafkaSend = async (message: { key: string; value: string }) => {
+  console.log("Kafka Published:", message);
+};
+
 const main = async () => {
-  numberOfStars = await ingestCatalogToRedis();
-  console.log(
-    `Sending ${MESSAGES_PER_MIN} messages per min, Delay between each message in MS: ${DELAY}`
-  );
-  const kafkaHandler = new KafkaHandler();
-  await kafkaHandler.connectKafka();
+  console.log(`Sending ${MESSAGES_PER_MIN} messages per min. Delay: ${DELAY}ms`);
+  console.log("Starting event generation...");
 
   let eventCounter = 0;
-  let eventToPublish;
-  console.log("starting to generate events");
 
   while (true) {
-    let priority = getRandomNumberByMaxVal(3);
-    const starData: Star = await getStarObjectByKey(
-      getRandomNumberByMaxVal(numberOfStars)
-    );
+    const useElastic = Math.random() > 0.5;
+    const starData: Star = useElastic
+      ? mockElasticData[getRandomNumber(mockElasticData.length)]
+      : mockGCPData[getRandomNumber(mockGCPData.length)];
 
-    if (eventCounter % 10 === 0) {
-      eventToPublish = new CosmicEvent(3, starData);
-    }
+    const priority =
+      eventCounter % 10000 === 0
+        ? 5
+        : eventCounter % 1000 === 0
+        ? 4
+        : eventCounter % 10 === 0
+        ? 3
+        : getRandomNumber(3);
 
-    if (eventCounter % 1000 === 0) {
-      eventToPublish = new CosmicEvent(4, starData);
-    }
+    const eventToPublish = new CosmicEvent(priority, starData);
+    const message = {
+      key: Date.now().toString(),
+      value: JSON.stringify(eventToPublish),
+    };
 
-    if (eventCounter % 10000 === 0) {
-      eventToPublish = new CosmicEvent(5, starData);
-    }
-
-    if (eventToPublish === undefined) {
-      eventToPublish = new CosmicEvent(priority, starData);
-    }
-
-    let messageAsString = JSON.stringify(eventToPublish);
-    await kafkaHandler.sendMessage({
-      key: new Date().getTime().toString(),
-      value: messageAsString,
-    });
+    await mockKafkaSend(message);
     eventCounter++;
-    eventToPublish = undefined;
     await sleep(DELAY);
   }
 };
 
-main()
-  .then(() => {
-    console.log("Done");
-  })
-  .catch((e) => {
-    console.error(`ERROR OCCURED!!: ${e}`);
-  });
+main().catch((err) => console.error("ERROR:", err));
