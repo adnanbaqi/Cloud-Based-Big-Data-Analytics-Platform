@@ -21,14 +21,15 @@ const NavBarUl = () => {
   return (
     <StyledNavBarUl>
       <Logo />
+      
+      <NavItem
+        linkText={"Cloud"}
+        svgPaths={faCloud}
+      />
 
       <NavItem
         linkText={"Nasa"}
         svgPaths={faSatellite}
-      />
-      <NavItem
-        linkText={"Cloud"}
-        svgPaths={faCloud}
       />
       <NavItem
         linkText={"Scraper"}

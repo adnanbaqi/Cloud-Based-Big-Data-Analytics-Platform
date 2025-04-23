@@ -19,8 +19,8 @@ const App = () => (
     <StyledMain>
       <Routes>
         <Route path="/Simulator" element={<Simulator />} exact />
-        <Route path="/clouds" element={<CloudDashboard />} exact />
-        <Route path="/" element={<Nasa />} />
+        <Route path="/" element={<CloudDashboard />} exact />
+        <Route path="/nasa" element={<Nasa />} />
         <Route path="/scraper" element={<Scraper />} />
         <Route path="/uploads" element={<UploadPage />} />
         <Route path="*" element={<Simulator />} />
